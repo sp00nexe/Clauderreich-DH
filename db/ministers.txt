@@ -38,7 +38,9 @@ ministers_cxb.csv
 ministers_cyn.csv
 ministers_cyp.csv
 ministers_cze.csv
+ministers_ddr.csv
 ministers_den.csv
+ministers_dfr.csv
 ministers_dom.csv
 ministers_eaf.csv
 ministers_ecu.csv

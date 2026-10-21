@@ -6,3 +6,54 @@ Changelog
 
 * Fixed L Inf and AT terrain/weather modifiers being accidentally removed
 * Fixed some typos and punctuation in events
+
+
+================================================================================
+  FORK CHANGELOG - Clauderreich-DH
+================================================================================
+
+Upstream baseline: Kaiserreich-DH 1.9.3 (commit 793063d11)
+Fork:            github.com/sp00nexe/Clauderreich-DH
+
+The upstream changelog lives at http://kaiserreich.wikia.com/wiki/KRDH_Changelog
+The block above is upstream's release note and is not edited by us.
+
+Version scheme
+---------------
+Our versions are <upstream version>.<our increment>:
+
+  1.9.3.1   our first change on top of upstream 1.9.3
+  1.9.3.2   our second change, and so on
+
+One version == one commit. Bump the counter for every commit that changes
+anything the game loads; leave it alone for commits that only touch docs or
+tooling.
+
+How to use this file
+--------------------
+1. Make the change.
+2. Add an entry under your own name at the bottom, using the next version
+   number and the current date (YYYY-MM-DD).
+3. Commit with the message: v<version>: <one-line summary>
+4. Never edit an entry that has already been committed; add a new version
+   instead.
+
+--------------------------------------------------------------------------------
+sp00nexe
+--------------------------------------------------------------------------------
+
+1.9.3.1 - 2026-10-21
+  Added
+  * Registered db/ministers/ministers_ddr.csv and db/ministers/ministers_dfr.csv
+    in db/ministers.txt. DDR and DFR already had country rows, world names,
+    counters, name tables, leaders (commiegermany.csv / federalgermany.csv) and
+    teams; their cabinets were the only missing piece. Zero minister-ID
+    conflicts against the other 213 files, and every portrait reference
+    resolves. Still inert - the countries cannot be released before 1967 and
+    the campaign ends 1964.
+  Removed
+  * db/leaders/leaders_u34.csv. The file held Italian fascist leaders tagged
+    U34, but U34 is Crimea (db/revolt.txt: "U34 = { # Crimea"). All eleven men
+    already exist in db/leaders/socialitaly.csv (RSI), and three of its IDs
+    collided with db/leaders/libya.csv. U34's real leaders live in
+    db/leaders/crimea.csv.
