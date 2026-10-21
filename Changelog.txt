@@ -78,3 +78,18 @@ sp00nexe
     gun, Type 1 and Type 60 105 mm howitzers).
   * All 205 names are unique across the whole file; the file stays CP1252 with
     CRLF endings, the X sentinel in column L and #EOF on the last row.
+
+1.9.3.4 - 2026-10-21
+  Added
+  * config/models.csv: MODEL_JAP_19_0, the Japanese flying bomb, named for the
+    only one Japan ever fielded, the Kugisho MXY-7 Ohka. The slot was live but
+    unnamed: tech 7100 activates the flying bomb unit type with no new_model
+    command, so model 0 is the one in play, while about twenty other countries
+    already name theirs (V1, Revenge Mk.I, Regulus, JB-2 Loon, TD2D-B Katydid).
+  Changed
+  * config/models.csv: MODEL_JAP_20_0/20_1/20_2 renamed. That slot is the German
+    rocket lineage (V2A4, V2A9, V2A10 - strategic rocket, ballistic missile,
+    intercontinental ballistic missile), so the kamikaze aircraft names on it
+    (Kugisho MXY-9 Shuka, Kugisho MXY-11 Ohka Kai) were a category error. Japan
+    now gets a rocket programme of its own: Type 104 Strategic Rocket, Type 105
+    Ballistic Missile, Type 106 Intercontinental Ballistic Missile.

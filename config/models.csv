@@ -2854,9 +2854,10 @@ MODEL_JAP_18_4;Mitsubishi G6M 'Betty';Mitsubishi G6M 'Betty';Mitsubishi G6M 'Bet
 MODEL_JAP_18_5;Kawasaki C-1;Kawasaki C-1;Kawasaki C-1;Kawasaki C-1;Kawasaki C-1;Kawasaki C-1;Kawasaki C-1;Kawasaki C-1;;;X
 MODEL_JAP_18_6;Mitsubishi T-1;Mitsubishi T-1;Mitsubishi T-1;Mitsubishi T-1;Mitsubishi T-1;Mitsubishi T-1;Mitsubishi T-1;Mitsubishi T-1;;;X
 MODEL_JAP_18_7;Mitsubishi YS-11;Mitsubishi YS-11;Mitsubishi YS-11;Mitsubishi YS-11;Mitsubishi YS-11;Mitsubishi YS-11;Mitsubishi YS-11;Mitsubishi YS-11;;;X
-MODEL_JAP_20_0;Kugisho MXY-7 Ohka;Kugisho MXY-7 Ohka;Kugisho MXY-7 Ohka;Kugisho MXY-7 Ohka;Kugisho MXY-7 Ohka;Kugisho MXY-7 Ohka;Kugisho MXY-7 Ohka;Kugisho MXY-7 Ohka;;;X
-MODEL_JAP_20_1;Kugisho MXY-9 Shuka;Kugisho MXY-9 Shuka;Kugisho MXY-9 Shuka;Kugisho MXY-9 Shuka;Kugisho MXY-9 Shuka;Kugisho MXY-9 Shuka;Kugisho MXY-9 Shuka;Kugisho MXY-9 Shuka;;;X
-MODEL_JAP_20_2;Kugisho MXY-11 Ohka Kai;Kugisho MXY-11 Ohka Kai;Kugisho MXY-11 Ohka Kai;Kugisho MXY-11 Ohka Kai;Kugisho MXY-11 Ohka Kai;Kugisho MXY-11 Ohka Kai;Kugisho MXY-11 Ohka Kai;Kugisho MXY-11 Ohka Kai;;;X
+MODEL_JAP_19_0;Kugisho MXY-7 Ohka;Kugisho MXY-7 Ohka;Kugisho MXY-7 Ohka;Kugisho MXY-7 Ohka;Kugisho MXY-7 Ohka;Kugisho MXY-7 Ohka;Kugisho MXY-7 Ohka;Kugisho MXY-7 Ohka;;;X
+MODEL_JAP_20_0;Type 104 Strategic Rocket;Type 104 Strategic Rocket;Type 104 Strategic Rocket;Type 104 Strategic Rocket;Type 104 Strategic Rocket;Type 104 Strategic Rocket;Type 104 Strategic Rocket;Type 104 Strategic Rocket;;;X
+MODEL_JAP_20_1;Type 105 Ballistic Missile;Type 105 Ballistic Missile;Type 105 Ballistic Missile;Type 105 Ballistic Missile;Type 105 Ballistic Missile;Type 105 Ballistic Missile;Type 105 Ballistic Missile;Type 105 Ballistic Missile;;;X
+MODEL_JAP_20_2;Type 106 Intercontinental Ballistic Missile;Type 106 Intercontinental Ballistic Missile;Type 106 Intercontinental Ballistic Missile;Type 106 Intercontinental Ballistic Missile;Type 106 Intercontinental Ballistic Missile;Type 106 Intercontinental Ballistic Missile;Type 106 Intercontinental Ballistic Missile;Type 106 Intercontinental Ballistic Missile;;;X
 BRIG_MODEL_JAP_14_0;1MT/1MF;1MT/1MF;1MT/1MF;1MT/1MF;1MT/1MF;1MT/1MF;1MT/1MF;1MT/1MF;;;X
 BRIG_MODEL_JAP_14_1;B1M/A1N;B1M/A1N;B1M/A1N;B1M/A1N;B1M/A1N;B1M/A1N;B1M/A1N;B1M/A1N;;;X
 BRIG_MODEL_JAP_14_2;D1A 'Susie'/B2M/A2N;D1A 'Susie'/B2M/A2N;D1A 'Susie'/B2M/A2N;D1A 'Susie'/B2M/A2N;D1A 'Susie'/B2M/A2N;D1A 'Susie'/B2M/A2N;D1A 'Susie'/B2M/A2N;D1A 'Susie'/B2M/A2N;;;X
