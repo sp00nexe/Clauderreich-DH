@@ -315,10 +315,10 @@ BRIG_MODEL_ITA_1_11;Obdice da 210/22;Obdice da 210/22;Obice da 210/22;Artilleria
 BRIG_MODEL_ITA_1_12;;;;;;;;;;;X
 BRIG_MODEL_ITA_1_13;;;;;;;;;;;X.
 BRIG_MODEL_JAP_1_0;Type 38 75 mm Field Gun;Type 38 75 mm Field Gun;Type 38 75 mm Field Gun;Type 38 75 mm Field Gun;Type 38 75 mm Field Gun;Type 38 75 mm Field Gun;Type 38 75 mm Field Gun;;;;X
-BRIG_MODEL_JAP_1_1;;;;;;;;;;;X
-BRIG_MODEL_JAP_1_2;;;;;;;;;;;X
-BRIG_MODEL_JAP_1_3;;;;;;;;;;;X
-BRIG_MODEL_JAP_1_4;;;;;;;;;;;X
+BRIG_MODEL_JAP_1_1;Type 41 75 mm Mountain Gun;Type 41 75 mm Mountain Gun;Type 41 75 mm Mountain Gun;Type 41 75 mm Mountain Gun;Type 41 75 mm Mountain Gun;Type 41 75 mm Mountain Gun;Type 41 75 mm Mountain Gun;Type 41 75 mm Mountain Gun;;;X
+BRIG_MODEL_JAP_1_2;Type 38 15 cm Howitzer;Type 38 15 cm Howitzer;Type 38 15 cm Howitzer;Type 38 15 cm Howitzer;Type 38 15 cm Howitzer;Type 38 15 cm Howitzer;Type 38 15 cm Howitzer;Type 38 15 cm Howitzer;;;X
+BRIG_MODEL_JAP_1_3;Type 41 75 mm Field Gun;Type 41 75 mm Field Gun;Type 41 75 mm Field Gun;Type 41 75 mm Field Gun;Type 41 75 mm Field Gun;Type 41 75 mm Field Gun;Type 41 75 mm Field Gun;Type 41 75 mm Field Gun;;;X
+BRIG_MODEL_JAP_1_4;Type 90 75 mm Field Gun;Type 90 75 mm Field Gun;Type 90 75 mm Field Gun;Type 90 75 mm Field Gun;Type 90 75 mm Field Gun;Type 90 75 mm Field Gun;Type 90 75 mm Field Gun;Type 90 75 mm Field Gun;;;X
 BRIG_MODEL_JAP_1_5;Type 14 10 cm Cannon;Type 14 10 cm Cannon;Type 14 10 cm Cannon;Type 14 10 cm Cannon;Type 14 10 cm Cannon;Type 14 10 cm Cannon;Type 14 10 cm Cannon;;;;X
 BRIG_MODEL_JAP_1_6;Type 92 10 cm Cannon;Type 92 10 cm Cannon;Type 92 10 cm Cannon;Type 92 10 cm Cannon;Type 92 10 cm Cannon;Type 92 10 cm Cannon;Type 92 10 cm Cannon;;;;X
 BRIG_MODEL_JAP_1_7;Type 11 3,7cm;Type 11 3,7cm;Type 11 3,7cm;Tipo 11 3,7cm;Type 11 3,7cm;Type 11 3,7cm;;Type 11 3,7cm;;;X
@@ -326,12 +326,138 @@ BRIG_MODEL_JAP_1_8;Type 38 10cm;Type 38 10cm;Type 38 10cm;Tipo 38 10cm;Type 38 1
 BRIG_MODEL_JAP_1_9;Type 4 15cm;Type 4 15cm;Type 4 15cm;Tipo 4 15cm;Type 4 15cm;Type 4 15cm;;Type 4 15cm;;;X
 BRIG_MODEL_JAP_1_10;Type 91 10cm;Type 91 10cm;Type 91 10cm;Tipo 91 10cm;Type 91 10cm;Type 91 10cm;;Type 91 10cm;;;X
 BRIG_MODEL_JAP_1_11;Type 96 15cm;Type 96 15cm;Type 96 15cm;Tipo 96 15cm;Type 96 15cm;Type 96 15cm;;Type 96 15cm;;;X
-BRIG_MODEL_JAP_1_12;;;;;;;;;;;X
-BRIG_MODEL_JAP_1_13;;;;;;;;;;;X
+BRIG_MODEL_JAP_1_12;Type 1 105 mm Howitzer;Type 1 105 mm Howitzer;Type 1 105 mm Howitzer;Type 1 105 mm Howitzer;Type 1 105 mm Howitzer;Type 1 105 mm Howitzer;Type 1 105 mm Howitzer;Type 1 105 mm Howitzer;;;X
+BRIG_MODEL_JAP_1_13;Type 60 105 mm Howitzer;Type 60 105 mm Howitzer;Type 60 105 mm Howitzer;Type 60 105 mm Howitzer;Type 60 105 mm Howitzer;Type 60 105 mm Howitzer;Type 60 105 mm Howitzer;Type 60 105 mm Howitzer;;;X
+BRIG_MODEL_JAP_2_0;Type 1 Ho-Ni;Type 1 Ho-Ni;Type 1 Ho-Ni;Type 1 Ho-Ni;Type 1 Ho-Ni;Type 1 Ho-Ni;Type 1 Ho-Ni;Type 1 Ho-Ni;;;X
+BRIG_MODEL_JAP_2_1;Type 1 Ho-Ni II;Type 1 Ho-Ni II;Type 1 Ho-Ni II;Type 1 Ho-Ni II;Type 1 Ho-Ni II;Type 1 Ho-Ni II;Type 1 Ho-Ni II;Type 1 Ho-Ni II;;;X
+BRIG_MODEL_JAP_2_2;Type 4 Ho-Ro;Type 4 Ho-Ro;Type 4 Ho-Ro;Type 4 Ho-Ro;Type 4 Ho-Ro;Type 4 Ho-Ro;Type 4 Ho-Ro;Type 4 Ho-Ro;;;X
+BRIG_MODEL_JAP_2_3;Type 95 Ho-Ro;Type 95 Ho-Ro;Type 95 Ho-Ro;Type 95 Ho-Ro;Type 95 Ho-Ro;Type 95 Ho-Ro;Type 95 Ho-Ro;Type 95 Ho-Ro;;;X
+BRIG_MODEL_JAP_2_4;Type 5 Ho-Ro;Type 5 Ho-Ro;Type 5 Ho-Ro;Type 5 Ho-Ro;Type 5 Ho-Ro;Type 5 Ho-Ro;Type 5 Ho-Ro;Type 5 Ho-Ro;;;X
+BRIG_MODEL_JAP_2_5;Type 3 Ho-Ro;Type 3 Ho-Ro;Type 3 Ho-Ro;Type 3 Ho-Ro;Type 3 Ho-Ro;Type 3 Ho-Ro;Type 3 Ho-Ro;Type 3 Ho-Ro;;;X
+BRIG_MODEL_JAP_2_6;Type 1 105 mm SPH;Type 1 105 mm SPH;Type 1 105 mm SPH;Type 1 105 mm SPH;Type 1 105 mm SPH;Type 1 105 mm SPH;Type 1 105 mm SPH;Type 1 105 mm SPH;;;X
+BRIG_MODEL_JAP_2_7;Type 60 105 mm SPH;Type 60 105 mm SPH;Type 60 105 mm SPH;Type 60 105 mm SPH;Type 60 105 mm SPH;Type 60 105 mm SPH;Type 60 105 mm SPH;Type 60 105 mm SPH;;;X
+BRIG_MODEL_JAP_4_0;Type 98 20 mm SPAA;Type 98 20 mm SPAA;Type 98 20 mm SPAA;Type 98 20 mm SPAA;Type 98 20 mm SPAA;Type 98 20 mm SPAA;Type 98 20 mm SPAA;Type 98 20 mm SPAA;;;X
+BRIG_MODEL_JAP_4_1;Type 99 88 mm SPAA;Type 99 88 mm SPAA;Type 99 88 mm SPAA;Type 99 88 mm SPAA;Type 99 88 mm SPAA;Type 99 88 mm SPAA;Type 99 88 mm SPAA;Type 99 88 mm SPAA;;;X
+BRIG_MODEL_JAP_4_2;Type 3 12 cm SPAA;Type 3 12 cm SPAA;Type 3 12 cm SPAA;Type 3 12 cm SPAA;Type 3 12 cm SPAA;Type 3 12 cm SPAA;Type 3 12 cm SPAA;Type 3 12 cm SPAA;;;X
+BRIG_MODEL_JAP_4_3;Type 26 40 mm SPAA;Type 26 40 mm SPAA;Type 26 40 mm SPAA;Type 26 40 mm SPAA;Type 26 40 mm SPAA;Type 26 40 mm SPAA;Type 26 40 mm SPAA;Type 26 40 mm SPAA;;;X
+BRIG_MODEL_JAP_4_4;Type 81 81 mm SPAA;Type 81 81 mm SPAA;Type 81 81 mm SPAA;Type 81 81 mm SPAA;Type 81 81 mm SPAA;Type 81 81 mm SPAA;Type 81 81 mm SPAA;Type 81 81 mm SPAA;;;X
+BRIG_MODEL_JAP_4_5;Type 3 105 mm SPAA;Type 3 105 mm SPAA;Type 3 105 mm SPAA;Type 3 105 mm SPAA;Type 3 105 mm SPAA;Type 3 105 mm SPAA;Type 3 105 mm SPAA;Type 3 105 mm SPAA;;;X
+BRIG_MODEL_JAP_5_0;Type 89 I-Go;Type 89 I-Go;Type 89 I-Go;Type 89 I-Go;Type 89 I-Go;Type 89 I-Go;Type 89 I-Go;Type 89 I-Go;;;X
+BRIG_MODEL_JAP_5_1;Type 94 Tank;Type 94 Tank;Type 94 Tank;Type 94 Tank;Type 94 Tank;Type 94 Tank;Type 94 Tank;Type 94 Tank;;;X
+BRIG_MODEL_JAP_5_2;Type 1 Medium Tank;Type 1 Medium Tank;Type 1 Medium Tank;Type 1 Medium Tank;Type 1 Medium Tank;Type 1 Medium Tank;Type 1 Medium Tank;Type 1 Medium Tank;;;X
+BRIG_MODEL_JAP_5_3;Shinhoto Chi-Ha;Shinhoto Chi-Ha;Shinhoto Chi-Ha;Shinhoto Chi-Ha;Shinhoto Chi-Ha;Shinhoto Chi-Ha;Shinhoto Chi-Ha;Shinhoto Chi-Ha;;;X
+BRIG_MODEL_JAP_5_4;Type 2 Medium Tank;Type 2 Medium Tank;Type 2 Medium Tank;Type 2 Medium Tank;Type 2 Medium Tank;Type 2 Medium Tank;Type 2 Medium Tank;Type 2 Medium Tank;;;X
+BRIG_MODEL_JAP_5_5;Type 3 Medium Tank;Type 3 Medium Tank;Type 3 Medium Tank;Type 3 Medium Tank;Type 3 Medium Tank;Type 3 Medium Tank;Type 3 Medium Tank;Type 3 Medium Tank;;;X
+BRIG_MODEL_JAP_5_6;Type 4 Chi-To;Type 4 Chi-To;Type 4 Chi-To;Type 4 Chi-To;Type 4 Chi-To;Type 4 Chi-To;Type 4 Chi-To;Type 4 Chi-To;;;X
+BRIG_MODEL_JAP_5_7;Type 5 Medium Tank;Type 5 Medium Tank;Type 5 Medium Tank;Type 5 Medium Tank;Type 5 Medium Tank;Type 5 Medium Tank;Type 5 Medium Tank;Type 5 Medium Tank;;;X
+BRIG_MODEL_JAP_5_8;Type 6 Medium Tank;Type 6 Medium Tank;Type 6 Medium Tank;Type 6 Medium Tank;Type 6 Medium Tank;Type 6 Medium Tank;Type 6 Medium Tank;Type 6 Medium Tank;;;X
+BRIG_MODEL_JAP_5_9;Type 5 Chi-Ri;Type 5 Chi-Ri;Type 5 Chi-Ri;Type 5 Chi-Ri;Type 5 Chi-Ri;Type 5 Chi-Ri;Type 5 Chi-Ri;Type 5 Chi-Ri;;;X
+BRIG_MODEL_JAP_5_10;Type 60;Type 60;Type 60;Type 60;Type 60;Type 60;Type 60;Type 60;;;X
+BRIG_MODEL_JAP_6_0;Type 91 120 mm Tank Destroyer;Type 91 120 mm Tank Destroyer;Type 91 120 mm Tank Destroyer;Type 91 120 mm Tank Destroyer;Type 91 120 mm Tank Destroyer;Type 91 120 mm Tank Destroyer;Type 91 120 mm Tank Destroyer;Type 91 120 mm Tank Destroyer;;;X
+BRIG_MODEL_JAP_6_1;Type 95 150 mm Tank Destroyer;Type 95 150 mm Tank Destroyer;Type 95 150 mm Tank Destroyer;Type 95 150 mm Tank Destroyer;Type 95 150 mm Tank Destroyer;Type 95 150 mm Tank Destroyer;Type 95 150 mm Tank Destroyer;Type 95 150 mm Tank Destroyer;;;X
+BRIG_MODEL_JAP_6_2;Type 4 Tank Destroyer;Type 4 Tank Destroyer;Type 4 Tank Destroyer;Type 4 Tank Destroyer;Type 4 Tank Destroyer;Type 4 Tank Destroyer;Type 4 Tank Destroyer;Type 4 Tank Destroyer;;;X
+BRIG_MODEL_JAP_6_3;Type 5 Tank Destroyer;Type 5 Tank Destroyer;Type 5 Tank Destroyer;Type 5 Tank Destroyer;Type 5 Tank Destroyer;Type 5 Tank Destroyer;Type 5 Tank Destroyer;Type 5 Tank Destroyer;;;X
+BRIG_MODEL_JAP_6_4;Type 3 Tank Destroyer;Type 3 Tank Destroyer;Type 3 Tank Destroyer;Type 3 Tank Destroyer;Type 3 Tank Destroyer;Type 3 Tank Destroyer;Type 3 Tank Destroyer;Type 3 Tank Destroyer;;;X
+BRIG_MODEL_JAP_6_5;Type 10 Tank Destroyer;Type 10 Tank Destroyer;Type 10 Tank Destroyer;Type 10 Tank Destroyer;Type 10 Tank Destroyer;Type 10 Tank Destroyer;Type 10 Tank Destroyer;Type 10 Tank Destroyer;;;X
+BRIG_MODEL_JAP_6_6;Type 60 Tank Destroyer;Type 60 Tank Destroyer;Type 60 Tank Destroyer;Type 60 Tank Destroyer;Type 60 Tank Destroyer;Type 60 Tank Destroyer;Type 60 Tank Destroyer;Type 60 Tank Destroyer;;;X
+BRIG_MODEL_JAP_6_7;Type 61 Tank Destroyer;Type 61 Tank Destroyer;Type 61 Tank Destroyer;Type 61 Tank Destroyer;Type 61 Tank Destroyer;Type 61 Tank Destroyer;Type 61 Tank Destroyer;Type 61 Tank Destroyer;;;X
 BRIG_MODEL_JAP_7_0;Renault FT-Ko;Renault FT-Ko;Renault FT-Ko;Renault FT-Ko;Renault FT-Ko;Renault FT-Ko;;Renault FT-Ko;;;X
+BRIG_MODEL_JAP_7_1;Type 17 Light Tank;Type 17 Light Tank;Type 17 Light Tank;Type 17 Light Tank;Type 17 Light Tank;Type 17 Light Tank;Type 17 Light Tank;Type 17 Light Tank;;;X
+BRIG_MODEL_JAP_7_2;Type 19 Light Tank;Type 19 Light Tank;Type 19 Light Tank;Type 19 Light Tank;Type 19 Light Tank;Type 19 Light Tank;Type 19 Light Tank;Type 19 Light Tank;;;X
+BRIG_MODEL_JAP_7_3;Type 28 Light Tank;Type 28 Light Tank;Type 28 Light Tank;Type 28 Light Tank;Type 28 Light Tank;Type 28 Light Tank;Type 28 Light Tank;Type 28 Light Tank;;;X
+BRIG_MODEL_JAP_7_4;Type 87 Chi-I;Type 87 Chi-I;Type 87 Chi-I;Type 87 Chi-I;Type 87 Chi-I;Type 87 Chi-I;Type 87 Chi-I;Type 87 Chi-I;;;X
+BRIG_MODEL_JAP_7_5;Type 95 Light Tank;Type 95 Light Tank;Type 95 Light Tank;Type 95 Light Tank;Type 95 Light Tank;Type 95 Light Tank;Type 95 Light Tank;Type 95 Light Tank;;;X
+BRIG_MODEL_JAP_7_6;Type 3 Light Tank;Type 3 Light Tank;Type 3 Light Tank;Type 3 Light Tank;Type 3 Light Tank;Type 3 Light Tank;Type 3 Light Tank;Type 3 Light Tank;;;X
+BRIG_MODEL_JAP_7_7;Type 1 Light Tank;Type 1 Light Tank;Type 1 Light Tank;Type 1 Light Tank;Type 1 Light Tank;Type 1 Light Tank;Type 1 Light Tank;Type 1 Light Tank;;;X
+BRIG_MODEL_JAP_7_8;Type 4 Chi-So;Type 4 Chi-So;Type 4 Chi-So;Type 4 Chi-So;Type 4 Chi-So;Type 4 Chi-So;Type 4 Chi-So;Type 4 Chi-So;;;X
+BRIG_MODEL_JAP_7_9;Type 62;Type 62;Type 62;Type 62;Type 62;Type 62;Type 62;Type 62;;;X
+BRIG_MODEL_JAP_8_0;Type 26 Tank;Type 26 Tank;Type 26 Tank;Type 26 Tank;Type 26 Tank;Type 26 Tank;Type 26 Tank;Type 26 Tank;;;X
+BRIG_MODEL_JAP_8_1;Type 92 Heavy Tank;Type 92 Heavy Tank;Type 92 Heavy Tank;Type 92 Heavy Tank;Type 92 Heavy Tank;Type 92 Heavy Tank;Type 92 Heavy Tank;Type 92 Heavy Tank;;;X
+BRIG_MODEL_JAP_8_2;Type 95 Heavy Tank;Type 95 Heavy Tank;Type 95 Heavy Tank;Type 95 Heavy Tank;Type 95 Heavy Tank;Type 95 Heavy Tank;Type 95 Heavy Tank;Type 95 Heavy Tank;;;X
+BRIG_MODEL_JAP_8_3;Type 93 Heavy Tank;Type 93 Heavy Tank;Type 93 Heavy Tank;Type 93 Heavy Tank;Type 93 Heavy Tank;Type 93 Heavy Tank;Type 93 Heavy Tank;Type 93 Heavy Tank;;;X
+BRIG_MODEL_JAP_8_4;Type 94 Heavy Tank;Type 94 Heavy Tank;Type 94 Heavy Tank;Type 94 Heavy Tank;Type 94 Heavy Tank;Type 94 Heavy Tank;Type 94 Heavy Tank;Type 94 Heavy Tank;;;X
+BRIG_MODEL_JAP_8_5;Type 60 Heavy Tank;Type 60 Heavy Tank;Type 60 Heavy Tank;Type 60 Heavy Tank;Type 60 Heavy Tank;Type 60 Heavy Tank;Type 60 Heavy Tank;Type 60 Heavy Tank;;;X
+BRIG_MODEL_JAP_9_0;Type 121 Heavy Tank;Type 121 Heavy Tank;Type 121 Heavy Tank;Type 121 Heavy Tank;Type 121 Heavy Tank;Type 121 Heavy Tank;Type 121 Heavy Tank;Type 121 Heavy Tank;;;X
+BRIG_MODEL_JAP_9_1;Type 122 Heavy Tank;Type 122 Heavy Tank;Type 122 Heavy Tank;Type 122 Heavy Tank;Type 122 Heavy Tank;Type 122 Heavy Tank;Type 122 Heavy Tank;Type 122 Heavy Tank;;;X
+BRIG_MODEL_JAP_10_0;Type 1 Armored Car;Type 1 Armored Car;Type 1 Armored Car;Type 1 Armored Car;Type 1 Armored Car;Type 1 Armored Car;Type 1 Armored Car;Type 1 Armored Car;;;X
+BRIG_MODEL_JAP_10_1;Type 2 Armored Car;Type 2 Armored Car;Type 2 Armored Car;Type 2 Armored Car;Type 2 Armored Car;Type 2 Armored Car;Type 2 Armored Car;Type 2 Armored Car;;;X
+BRIG_MODEL_JAP_10_2;Type 3 Armored Car;Type 3 Armored Car;Type 3 Armored Car;Type 3 Armored Car;Type 3 Armored Car;Type 3 Armored Car;Type 3 Armored Car;Type 3 Armored Car;;;X
+BRIG_MODEL_JAP_10_3;Type 92 Armored Car;Type 92 Armored Car;Type 92 Armored Car;Type 92 Armored Car;Type 92 Armored Car;Type 92 Armored Car;Type 92 Armored Car;Type 92 Armored Car;;;X
+BRIG_MODEL_JAP_10_4;Type 94 Armored Car;Type 94 Armored Car;Type 94 Armored Car;Type 94 Armored Car;Type 94 Armored Car;Type 94 Armored Car;Type 94 Armored Car;Type 94 Armored Car;;;X
+BRIG_MODEL_JAP_10_5;Type 95 So-Ki;Type 95 So-Ki;Type 95 So-Ki;Type 95 So-Ki;Type 95 So-Ki;Type 95 So-Ki;Type 95 So-Ki;Type 95 So-Ki;;;X
+BRIG_MODEL_JAP_10_6;Type 2592 Chiyoda;Type 2592 Chiyoda;Type 2592 Chiyoda;Type 2592 Chiyoda;Type 2592 Chiyoda;Type 2592 Chiyoda;Type 2592 Chiyoda;Type 2592 Chiyoda;;;X
+BRIG_MODEL_JAP_10_7;Type 2593 Sumida;Type 2593 Sumida;Type 2593 Sumida;Type 2593 Sumida;Type 2593 Sumida;Type 2593 Sumida;Type 2593 Sumida;Type 2593 Sumida;;;X
+BRIG_MODEL_JAP_11_0;Type 3 75 mm AA Gun;Type 3 75 mm AA Gun;Type 3 75 mm AA Gun;Type 3 75 mm AA Gun;Type 3 75 mm AA Gun;Type 3 75 mm AA Gun;Type 3 75 mm AA Gun;Type 3 75 mm AA Gun;;;X
+BRIG_MODEL_JAP_11_1;Type 3 Kai 75 mm AA Gun;Type 3 Kai 75 mm AA Gun;Type 3 Kai 75 mm AA Gun;Type 3 Kai 75 mm AA Gun;Type 3 Kai 75 mm AA Gun;Type 3 Kai 75 mm AA Gun;Type 3 Kai 75 mm AA Gun;Type 3 Kai 75 mm AA Gun;;;X
+BRIG_MODEL_JAP_11_2;Type 88 75 mm AA Gun;Type 88 75 mm AA Gun;Type 88 75 mm AA Gun;Type 88 75 mm AA Gun;Type 88 75 mm AA Gun;Type 88 75 mm AA Gun;Type 88 75 mm AA Gun;Type 88 75 mm AA Gun;;;X
+BRIG_MODEL_JAP_11_3;Type 90 75 mm AA Gun;Type 90 75 mm AA Gun;Type 90 75 mm AA Gun;Type 90 75 mm AA Gun;Type 90 75 mm AA Gun;Type 90 75 mm AA Gun;Type 90 75 mm AA Gun;Type 90 75 mm AA Gun;;;X
+BRIG_MODEL_JAP_11_4;Type 98 40 mm AA Gun;Type 98 40 mm AA Gun;Type 98 40 mm AA Gun;Type 98 40 mm AA Gun;Type 98 40 mm AA Gun;Type 98 40 mm AA Gun;Type 98 40 mm AA Gun;Type 98 40 mm AA Gun;;;X
+BRIG_MODEL_JAP_11_5;Type 99 88 mm AA Gun;Type 99 88 mm AA Gun;Type 99 88 mm AA Gun;Type 99 88 mm AA Gun;Type 99 88 mm AA Gun;Type 99 88 mm AA Gun;Type 99 88 mm AA Gun;Type 99 88 mm AA Gun;;;X
+BRIG_MODEL_JAP_11_6;Type 3 105 mm AA Gun;Type 3 105 mm AA Gun;Type 3 105 mm AA Gun;Type 3 105 mm AA Gun;Type 3 105 mm AA Gun;Type 3 105 mm AA Gun;Type 3 105 mm AA Gun;Type 3 105 mm AA Gun;;;X
+BRIG_MODEL_JAP_16_0;Type 4 Model 1 Depth Charge;Type 4 Model 1 Depth Charge;Type 4 Model 1 Depth Charge;Type 4 Model 1 Depth Charge;Type 4 Model 1 Depth Charge;Type 4 Model 1 Depth Charge;Type 4 Model 1 Depth Charge;Type 4 Model 1 Depth Charge;;;X
+BRIG_MODEL_JAP_16_1;Type 93 Model 1 Depth Charge;Type 93 Model 1 Depth Charge;Type 93 Model 1 Depth Charge;Type 93 Model 1 Depth Charge;Type 93 Model 1 Depth Charge;Type 93 Model 1 Depth Charge;Type 93 Model 1 Depth Charge;Type 93 Model 1 Depth Charge;;;X
+BRIG_MODEL_JAP_16_2;Type 1 Mark 2 Model 1 Sonar;Type 1 Mark 2 Model 1 Sonar;Type 1 Mark 2 Model 1 Sonar;Type 1 Mark 2 Model 1 Sonar;Type 1 Mark 2 Model 1 Sonar;Type 1 Mark 2 Model 1 Sonar;Type 1 Mark 2 Model 1 Sonar;Type 1 Mark 2 Model 1 Sonar;;;X
+BRIG_MODEL_JAP_16_3;Type 2 Mark 2 Model 1 Sonar;Type 2 Mark 2 Model 1 Sonar;Type 2 Mark 2 Model 1 Sonar;Type 2 Mark 2 Model 1 Sonar;Type 2 Mark 2 Model 1 Sonar;Type 2 Mark 2 Model 1 Sonar;Type 2 Mark 2 Model 1 Sonar;Type 2 Mark 2 Model 1 Sonar;;;X
+BRIG_MODEL_JAP_16_4;Type 3 Model 1 Sonar;Type 3 Model 1 Sonar;Type 3 Model 1 Sonar;Type 3 Model 1 Sonar;Type 3 Model 1 Sonar;Type 3 Model 1 Sonar;Type 3 Model 1 Sonar;Type 3 Model 1 Sonar;;;X
+BRIG_MODEL_JAP_16_5;Type 32 Mark 2 Model 1 Sonar;Type 32 Mark 2 Model 1 Sonar;Type 32 Mark 2 Model 1 Sonar;Type 32 Mark 2 Model 1 Sonar;Type 32 Mark 2 Model 1 Sonar;Type 32 Mark 2 Model 1 Sonar;Type 32 Mark 2 Model 1 Sonar;Type 32 Mark 2 Model 1 Sonar;;;X
 BRIG_MODEL_JAP_17_0;Type 91 HI Shiki;Type 91 HI Shiki;Type 91 HI Shiki;Type 91 HI Shiki;Type 91 HI Shiki;Type 91 HI Shiki;Type 91 HI Shiki;Type 91 HI Shiki;;;X
 BRIG_MODEL_JAP_17_1;Type 96 25 mm AA;Type 96 25 mm AA;Type 96 25 mm AA;Type 96 25 mm AA;Type 96 25 mm AA;Type 96 25 mm AA;Type 96 25 mm AA;Type 96 25 mm AA;;;X
+BRIG_MODEL_JAP_17_2;Type 96 40 mm AA Gun;Type 96 40 mm AA Gun;Type 96 40 mm AA Gun;Type 96 40 mm AA Gun;Type 96 40 mm AA Gun;Type 96 40 mm AA Gun;Type 96 40 mm AA Gun;Type 96 40 mm AA Gun;;;X
 BRIG_MODEL_JAP_17_3;Type 10 120 mm AA Gun;Type 10 120 mm AA Gun;Type 10 120 mm AA Gun;Type 10 120 mm AA Gun;Type 10 120 mm AA Gun;Type 10 120 mm AA Gun;Type 10 120 mm AA Gun;Type 10 120 mm AA Gun;;;X
+BRIG_MODEL_JAP_17_4;Type 3 12.7 cm AA Gun;Type 3 12.7 cm AA Gun;Type 3 12.7 cm AA Gun;Type 3 12.7 cm AA Gun;Type 3 12.7 cm AA Gun;Type 3 12.7 cm AA Gun;Type 3 12.7 cm AA Gun;Type 3 12.7 cm AA Gun;;;X
+BRIG_MODEL_JAP_17_5;Type 3 Kai Anti-Air Missile;Type 3 Kai Anti-Air Missile;Type 3 Kai Anti-Air Missile;Type 3 Kai Anti-Air Missile;Type 3 Kai Anti-Air Missile;Type 3 Kai Anti-Air Missile;Type 3 Kai Anti-Air Missile;Type 3 Kai Anti-Air Missile;;;X
+BRIG_MODEL_JAP_18_0;Type 11 Mark 2 Model 1 Radar;Type 11 Mark 2 Model 1 Radar;Type 11 Mark 2 Model 1 Radar;Type 11 Mark 2 Model 1 Radar;Type 11 Mark 2 Model 1 Radar;Type 11 Mark 2 Model 1 Radar;Type 11 Mark 2 Model 1 Radar;Type 11 Mark 2 Model 1 Radar;;;X
+BRIG_MODEL_JAP_18_1;Type 21 Mark 2 Model 1 Radar;Type 21 Mark 2 Model 1 Radar;Type 21 Mark 2 Model 1 Radar;Type 21 Mark 2 Model 1 Radar;Type 21 Mark 2 Model 1 Radar;Type 21 Mark 2 Model 1 Radar;Type 21 Mark 2 Model 1 Radar;Type 21 Mark 2 Model 1 Radar;;;X
+BRIG_MODEL_JAP_18_2;Type 32 Radar;Type 32 Radar;Type 32 Radar;Type 32 Radar;Type 32 Radar;Type 32 Radar;Type 32 Radar;Type 32 Radar;;;X
+BRIG_MODEL_JAP_18_3;Type 33 Radar;Type 33 Radar;Type 33 Radar;Type 33 Radar;Type 33 Radar;Type 33 Radar;Type 33 Radar;Type 33 Radar;;;X
+BRIG_MODEL_JAP_19_0;Type 1 Fire Control Table;Type 1 Fire Control Table;Type 1 Fire Control Table;Type 1 Fire Control Table;Type 1 Fire Control Table;Type 1 Fire Control Table;Type 1 Fire Control Table;Type 1 Fire Control Table;;;X
+BRIG_MODEL_JAP_19_1;Type 2 Mark 2 Model 1 Fire Control;Type 2 Mark 2 Model 1 Fire Control;Type 2 Mark 2 Model 1 Fire Control;Type 2 Mark 2 Model 1 Fire Control;Type 2 Mark 2 Model 1 Fire Control;Type 2 Mark 2 Model 1 Fire Control;Type 2 Mark 2 Model 1 Fire Control;Type 2 Mark 2 Model 1 Fire Control;;;X
+BRIG_MODEL_JAP_19_2;Type 3 Electronic Fire Control;Type 3 Electronic Fire Control;Type 3 Electronic Fire Control;Type 3 Electronic Fire Control;Type 3 Electronic Fire Control;Type 3 Electronic Fire Control;Type 3 Electronic Fire Control;Type 3 Electronic Fire Control;;;X
+BRIG_MODEL_JAP_20_0;Type 87 Hull Design;Type 87 Hull Design;Type 87 Hull Design;Type 87 Hull Design;Type 87 Hull Design;Type 87 Hull Design;Type 87 Hull Design;Type 87 Hull Design;;;X
+BRIG_MODEL_JAP_21_0;Type 1 Model 1 Torpedo;Type 1 Model 1 Torpedo;Type 1 Model 1 Torpedo;Type 1 Model 1 Torpedo;Type 1 Model 1 Torpedo;Type 1 Model 1 Torpedo;Type 1 Model 1 Torpedo;Type 1 Model 1 Torpedo;;;X
+BRIG_MODEL_JAP_21_1;Type 1 Model 2 Torpedo;Type 1 Model 2 Torpedo;Type 1 Model 2 Torpedo;Type 1 Model 2 Torpedo;Type 1 Model 2 Torpedo;Type 1 Model 2 Torpedo;Type 1 Model 2 Torpedo;Type 1 Model 2 Torpedo;;;X
+BRIG_MODEL_JAP_21_2;Type 3 Model 1 Torpedo;Type 3 Model 1 Torpedo;Type 3 Model 1 Torpedo;Type 3 Model 1 Torpedo;Type 3 Model 1 Torpedo;Type 3 Model 1 Torpedo;Type 3 Model 1 Torpedo;Type 3 Model 1 Torpedo;;;X
+BRIG_MODEL_JAP_21_3;Type 2 Model 1 Torpedo;Type 2 Model 1 Torpedo;Type 2 Model 1 Torpedo;Type 2 Model 1 Torpedo;Type 2 Model 1 Torpedo;Type 2 Model 1 Torpedo;Type 2 Model 1 Torpedo;Type 2 Model 1 Torpedo;;;X
+BRIG_MODEL_JAP_21_4;Type 37 Model 1 Torpedo;Type 37 Model 1 Torpedo;Type 37 Model 1 Torpedo;Type 37 Model 1 Torpedo;Type 37 Model 1 Torpedo;Type 37 Model 1 Torpedo;Type 37 Model 1 Torpedo;Type 37 Model 1 Torpedo;;;X
+BRIG_MODEL_JAP_21_5;Type 93 Model 1 Long Lance;Type 93 Model 1 Long Lance;Type 93 Model 1 Long Lance;Type 93 Model 1 Long Lance;Type 93 Model 1 Long Lance;Type 93 Model 1 Long Lance;Type 93 Model 1 Long Lance;Type 93 Model 1 Long Lance;;;X
+BRIG_MODEL_JAP_21_6;Type 45 Model 1 Torpedo;Type 45 Model 1 Torpedo;Type 45 Model 1 Torpedo;Type 45 Model 1 Torpedo;Type 45 Model 1 Torpedo;Type 45 Model 1 Torpedo;Type 45 Model 1 Torpedo;Type 45 Model 1 Torpedo;;;X
+BRIG_MODEL_JAP_21_7;Type 93 Model 2 Torpedo;Type 93 Model 2 Torpedo;Type 93 Model 2 Torpedo;Type 93 Model 2 Torpedo;Type 93 Model 2 Torpedo;Type 93 Model 2 Torpedo;Type 93 Model 2 Torpedo;Type 93 Model 2 Torpedo;;;X
+BRIG_MODEL_JAP_22_0;Type 89 120 mm AA Gun;Type 89 120 mm AA Gun;Type 89 120 mm AA Gun;Type 89 120 mm AA Gun;Type 89 120 mm AA Gun;Type 89 120 mm AA Gun;Type 89 120 mm AA Gun;Type 89 120 mm AA Gun;;;X
+BRIG_MODEL_JAP_22_1;Type 94 120 mm AA Gun;Type 94 120 mm AA Gun;Type 94 120 mm AA Gun;Type 94 120 mm AA Gun;Type 94 120 mm AA Gun;Type 94 120 mm AA Gun;Type 94 120 mm AA Gun;Type 94 120 mm AA Gun;;;X
+BRIG_MODEL_JAP_22_2;Type 98 20 mm AA Gun;Type 98 20 mm AA Gun;Type 98 20 mm AA Gun;Type 98 20 mm AA Gun;Type 98 20 mm AA Gun;Type 98 20 mm AA Gun;Type 98 20 mm AA Gun;Type 98 20 mm AA Gun;;;X
+BRIG_MODEL_JAP_22_3;Type 4 105 mm AA Gun;Type 4 105 mm AA Gun;Type 4 105 mm AA Gun;Type 4 105 mm AA Gun;Type 4 105 mm AA Gun;Type 4 105 mm AA Gun;Type 4 105 mm AA Gun;Type 4 105 mm AA Gun;;;X
+BRIG_MODEL_JAP_22_4;Type 4 120 mm AA Gun;Type 4 120 mm AA Gun;Type 4 120 mm AA Gun;Type 4 120 mm AA Gun;Type 4 120 mm AA Gun;Type 4 120 mm AA Gun;Type 4 120 mm AA Gun;Type 4 120 mm AA Gun;;;X
+BRIG_MODEL_JAP_22_5;Type 2 Kai Anti-Air Missile;Type 2 Kai Anti-Air Missile;Type 2 Kai Anti-Air Missile;Type 2 Kai Anti-Air Missile;Type 2 Kai Anti-Air Missile;Type 2 Kai Anti-Air Missile;Type 2 Kai Anti-Air Missile;Type 2 Kai Anti-Air Missile;;;X
+BRIG_MODEL_JAP_23_0;Type 13 Mark 1 Radar;Type 13 Mark 1 Radar;Type 13 Mark 1 Radar;Type 13 Mark 1 Radar;Type 13 Mark 1 Radar;Type 13 Mark 1 Radar;Type 13 Mark 1 Radar;Type 13 Mark 1 Radar;;;X
+BRIG_MODEL_JAP_23_1;Type 22 Mark 2 Model 1 Radar;Type 22 Mark 2 Model 1 Radar;Type 22 Mark 2 Model 1 Radar;Type 22 Mark 2 Model 1 Radar;Type 22 Mark 2 Model 1 Radar;Type 22 Mark 2 Model 1 Radar;Type 22 Mark 2 Model 1 Radar;Type 22 Mark 2 Model 1 Radar;;;X
+BRIG_MODEL_JAP_23_2;Type 21 Mark 2 Model 2 Radar;Type 21 Mark 2 Model 2 Radar;Type 21 Mark 2 Model 2 Radar;Type 21 Mark 2 Model 2 Radar;Type 21 Mark 2 Model 2 Radar;Type 21 Mark 2 Model 2 Radar;Type 21 Mark 2 Model 2 Radar;Type 21 Mark 2 Model 2 Radar;;;X
+BRIG_MODEL_JAP_23_3;Type 42 Radar;Type 42 Radar;Type 42 Radar;Type 42 Radar;Type 42 Radar;Type 42 Radar;Type 42 Radar;Type 42 Radar;;;X
+BRIG_MODEL_JAP_23_4;Type 23 Mark 2 Model 1 Radar;Type 23 Mark 2 Model 1 Radar;Type 23 Mark 2 Model 1 Radar;Type 23 Mark 2 Model 1 Radar;Type 23 Mark 2 Model 1 Radar;Type 23 Mark 2 Model 1 Radar;Type 23 Mark 2 Model 1 Radar;Type 23 Mark 2 Model 1 Radar;;;X
+BRIG_MODEL_JAP_24_0;Type 2 Fire Control Table;Type 2 Fire Control Table;Type 2 Fire Control Table;Type 2 Fire Control Table;Type 2 Fire Control Table;Type 2 Fire Control Table;Type 2 Fire Control Table;Type 2 Fire Control Table;;;X
+BRIG_MODEL_JAP_24_1;Type 98 Mark 2 Model 1 Fire Control;Type 98 Mark 2 Model 1 Fire Control;Type 98 Mark 2 Model 1 Fire Control;Type 98 Mark 2 Model 1 Fire Control;Type 98 Mark 2 Model 1 Fire Control;Type 98 Mark 2 Model 1 Fire Control;Type 98 Mark 2 Model 1 Fire Control;Type 98 Mark 2 Model 1 Fire Control;;;X
+BRIG_MODEL_JAP_24_2;Type 4 Electronic Fire Control;Type 4 Electronic Fire Control;Type 4 Electronic Fire Control;Type 4 Electronic Fire Control;Type 4 Electronic Fire Control;Type 4 Electronic Fire Control;Type 4 Electronic Fire Control;Type 4 Electronic Fire Control;;;X
+BRIG_MODEL_JAP_25_0;Kamoi-class Hull;Kamoi-class Hull;Kamoi-class Hull;Kamoi-class Hull;Kamoi-class Hull;Kamoi-class Hull;Kamoi-class Hull;Kamoi-class Hull;;;X
+BRIG_MODEL_JAP_32_0;Type 1 Ka-Son;Type 1 Ka-Son;Type 1 Ka-Son;Type 1 Ka-Son;Type 1 Ka-Son;Type 1 Ka-Son;Type 1 Ka-Son;Type 1 Ka-Son;;;X
+BRIG_MODEL_JAP_32_1;Type 2 Ka-Su;Type 2 Ka-Su;Type 2 Ka-Su;Type 2 Ka-Su;Type 2 Ka-Su;Type 2 Ka-Su;Type 2 Ka-Su;Type 2 Ka-Su;;;X
+BRIG_MODEL_JAP_32_2;Type 60 Amphibious Tank;Type 60 Amphibious Tank;Type 60 Amphibious Tank;Type 60 Amphibious Tank;Type 60 Amphibious Tank;Type 60 Amphibious Tank;Type 60 Amphibious Tank;Type 60 Amphibious Tank;;;X
+BRIG_MODEL_JAP_33_0;Type 1 Ku-Ro;Type 1 Ku-Ro;Type 1 Ku-Ro;Type 1 Ku-Ro;Type 1 Ku-Ro;Type 1 Ku-Ro;Type 1 Ku-Ro;Type 1 Ku-Ro;;;X
+BRIG_MODEL_JAP_33_1;Type 3 Ku-Ro;Type 3 Ku-Ro;Type 3 Ku-Ro;Type 3 Ku-Ro;Type 3 Ku-Ro;Type 3 Ku-Ro;Type 3 Ku-Ro;Type 3 Ku-Ro;;;X
+BRIG_MODEL_JAP_33_2;Type 60 Glider Tank;Type 60 Glider Tank;Type 60 Glider Tank;Type 60 Glider Tank;Type 60 Glider Tank;Type 60 Glider Tank;Type 60 Glider Tank;Type 60 Glider Tank;;;X
+BRIG_MODEL_JAP_34_0;Type 11 75 mm Glider Howitzer;Type 11 75 mm Glider Howitzer;Type 11 75 mm Glider Howitzer;Type 11 75 mm Glider Howitzer;Type 11 75 mm Glider Howitzer;Type 11 75 mm Glider Howitzer;Type 11 75 mm Glider Howitzer;Type 11 75 mm Glider Howitzer;;;X
+BRIG_MODEL_JAP_34_1;Type 4 75 mm Glider Howitzer;Type 4 75 mm Glider Howitzer;Type 4 75 mm Glider Howitzer;Type 4 75 mm Glider Howitzer;Type 4 75 mm Glider Howitzer;Type 4 75 mm Glider Howitzer;Type 4 75 mm Glider Howitzer;Type 4 75 mm Glider Howitzer;;;X
+BRIG_MODEL_JAP_34_2;Type 38 10 cm Glider Howitzer;Type 38 10 cm Glider Howitzer;Type 38 10 cm Glider Howitzer;Type 38 10 cm Glider Howitzer;Type 38 10 cm Glider Howitzer;Type 38 10 cm Glider Howitzer;Type 38 10 cm Glider Howitzer;Type 38 10 cm Glider Howitzer;;;X
+BRIG_MODEL_JAP_34_3;Type 96 15 cm Glider Howitzer;Type 96 15 cm Glider Howitzer;Type 96 15 cm Glider Howitzer;Type 96 15 cm Glider Howitzer;Type 96 15 cm Glider Howitzer;Type 96 15 cm Glider Howitzer;Type 96 15 cm Glider Howitzer;Type 96 15 cm Glider Howitzer;;;X
+BRIG_MODEL_JAP_34_4;Type 60 105 mm Glider Howitzer;Type 60 105 mm Glider Howitzer;Type 60 105 mm Glider Howitzer;Type 60 105 mm Glider Howitzer;Type 60 105 mm Glider Howitzer;Type 60 105 mm Glider Howitzer;Type 60 105 mm Glider Howitzer;Type 60 105 mm Glider Howitzer;;;X
+BRIG_MODEL_JAP_35_0;Type 45 24 cm Coastal Gun;Type 45 24 cm Coastal Gun;Type 45 24 cm Coastal Gun;Type 45 24 cm Coastal Gun;Type 45 24 cm Coastal Gun;Type 45 24 cm Coastal Gun;Type 45 24 cm Coastal Gun;Type 45 24 cm Coastal Gun;;;X
+BRIG_MODEL_JAP_35_1;Type 7 30 cm Howitzer;Type 7 30 cm Howitzer;Type 7 30 cm Howitzer;Type 7 30 cm Howitzer;Type 7 30 cm Howitzer;Type 7 30 cm Howitzer;Type 7 30 cm Howitzer;Type 7 30 cm Howitzer;;;X
+BRIG_MODEL_JAP_35_2;Type 3 41 cm Coastal Gun;Type 3 41 cm Coastal Gun;Type 3 41 cm Coastal Gun;Type 3 41 cm Coastal Gun;Type 3 41 cm Coastal Gun;Type 3 41 cm Coastal Gun;Type 3 41 cm Coastal Gun;Type 3 41 cm Coastal Gun;;;X
+BRIG_MODEL_JAP_35_3;Type 96 24 cm Howitzer;Type 96 24 cm Howitzer;Type 96 24 cm Howitzer;Type 96 24 cm Howitzer;Type 96 24 cm Howitzer;Type 96 24 cm Howitzer;Type 96 24 cm Howitzer;Type 96 24 cm Howitzer;;;X
+BRIG_MODEL_JAP_35_4;Type 90 24 cm Railway Gun;Type 90 24 cm Railway Gun;Type 90 24 cm Railway Gun;Type 90 24 cm Railway Gun;Type 90 24 cm Railway Gun;Type 90 24 cm Railway Gun;Type 90 24 cm Railway Gun;Type 90 24 cm Railway Gun;;;X
+BRIG_MODEL_JAP_35_5;Type 60 203 mm Howitzer;Type 60 203 mm Howitzer;Type 60 203 mm Howitzer;Type 60 203 mm Howitzer;Type 60 203 mm Howitzer;Type 60 203 mm Howitzer;Type 60 203 mm Howitzer;Type 60 203 mm Howitzer;;;X
+BRIG_MODEL_JAP_41_0;Type 97 45 mm AT Gun;Type 97 45 mm AT Gun;Type 97 45 mm AT Gun;Type 97 45 mm AT Gun;Type 97 45 mm AT Gun;Type 97 45 mm AT Gun;Type 97 45 mm AT Gun;Type 97 45 mm AT Gun;;;X
+BRIG_MODEL_JAP_41_1;Type 1 57 mm AT Gun;Type 1 57 mm AT Gun;Type 1 57 mm AT Gun;Type 1 57 mm AT Gun;Type 1 57 mm AT Gun;Type 1 57 mm AT Gun;Type 1 57 mm AT Gun;Type 1 57 mm AT Gun;;;X
+BRIG_MODEL_JAP_41_2;Type 1 47 mm AT Gun;Type 1 47 mm AT Gun;Type 1 47 mm AT Gun;Type 1 47 mm AT Gun;Type 1 47 mm AT Gun;Type 1 47 mm AT Gun;Type 1 47 mm AT Gun;Type 1 47 mm AT Gun;;;X
+BRIG_MODEL_JAP_41_3;Type 95 100 mm AT Gun;Type 95 100 mm AT Gun;Type 95 100 mm AT Gun;Type 95 100 mm AT Gun;Type 95 100 mm AT Gun;Type 95 100 mm AT Gun;Type 95 100 mm AT Gun;Type 95 100 mm AT Gun;;;X
 BRIG_MODEL_JOR_1_10;155mm Howitzer M114;155mm Howitzer M114;155mm Howitzer M114;155mm Howitzer M114;155mm Howitzer M114;203mm Howitzer M115;;155mm Howitzer M114;;;X
 BRIG_MODEL_KOR_1_9;105mm M2A1;105mm M2A1;105mm M2A1;105mm M2A1;105mm M2A1;105mm M2A1;;105mm M2A1;;;X
 BRIG_MODEL_KOR_1_10;155mm Howitzer M114;155mm Howitzer M114;155mm Howitzer M114;155mm Howitzer M114;155mm Howitzer M114;203mm Howitzer M115;;155mm Howitzer M114;;;X
@@ -2632,8 +2758,20 @@ MODEL_ITA_18_5;Savoia-Marchetti SM.105;Savoia-Marchetti SM.105;Savoia-Marchetti 
 BRIG_MODEL_ITA_15_0;Fiat CR.25;Fiat CR.25;Fiat CR.25;Fiat CR.25;Fiat CR.25;Fiat CR.25;Fiat CR.25;Fiat CR.25;;;X
 BRIG_MODEL_ITA_26_4;Piaggio P.8;Piaggio P.8;Piaggio P.8;Piaggio P.8;Piaggio P.8;Piaggio P.8;Piaggio P.8;Piaggio P.8;;;X
 BRIG_MODEL_ITA_26_5;Piaggio P.10;Piaggio P.10;Piaggio P.10;Piaggio P.10;Piaggio P.10;Piaggio P.10;Piaggio P.10;Piaggio P.10;;;X
+MODEL_JAP_4_0;Type 92;Type 92;Type 92;Type 92;Type 92;Type 92;Type 92;Type 92;;;X
+MODEL_JAP_4_1;Type 95 Ha-Go;Type 95 Ha-Go;Type 95 Ha-Go;Type 95 Ha-Go;Type 95 Ha-Go;Type 95 Ha-Go;Type 95 Ha-Go;Type 95 Ha-Go;;;X
+MODEL_JAP_4_2;Type 98 Ke-Ni;Type 98 Ke-Ni;Type 98 Ke-Ni;Type 98 Ke-Ni;Type 98 Ke-Ni;Type 98 Ke-Ni;Type 98 Ke-Ni;Type 98 Ke-Ni;;;X
+MODEL_JAP_5_0;Renault FT-17 Ko;Renault FT-17 Ko;Renault FT-17 Ko;Renault FT-17 Ko;Renault FT-17 Ko;Renault FT-17 Ko;Renault FT-17 Ko;Renault FT-17 Ko;;;X
+MODEL_JAP_5_1;Type 89 Otsu;Type 89 Otsu;Type 89 Otsu;Type 89 Otsu;Type 89 Otsu;Type 89 Otsu;Type 89 Otsu;Type 89 Otsu;;;X
+MODEL_JAP_5_2;Type 97 Chi-Ha;Type 97 Chi-Ha;Type 97 Chi-Ha;Type 97 Chi-Ha;Type 97 Chi-Ha;Type 97 Chi-Ha;Type 97 Chi-Ha;Type 97 Chi-Ha;;;X
+MODEL_JAP_5_3;Type 1 Chi-He;Type 1 Chi-He;Type 1 Chi-He;Type 1 Chi-He;Type 1 Chi-He;Type 1 Chi-He;Type 1 Chi-He;Type 1 Chi-He;;;X
+MODEL_JAP_5_4;Type 3 Chi-Nu;Type 3 Chi-Nu;Type 3 Chi-Nu;Type 3 Chi-Nu;Type 3 Chi-Nu;Type 3 Chi-Nu;Type 3 Chi-Nu;Type 3 Chi-Nu;;;X
+MODEL_JAP_5_5;Type 4 Chi-Re;Type 4 Chi-Re;Type 4 Chi-Re;Type 4 Chi-Re;Type 4 Chi-Re;Type 4 Chi-Re;Type 4 Chi-Re;Type 4 Chi-Re;;;X
+MODEL_JAP_5_6;Type 61;Type 61;Type 61;Type 61;Type 61;Type 61;Type 61;Type 61;;;X
+MODEL_JAP_5_7;Type 74;Type 74;Type 74;Type 74;Type 74;Type 74;Type 74;Type 74;;;X
 MODEL_JAP_12_0;Sopwith Strutter;Sopwith Strutter;Sopwith Strutter;Sopwith Strutter;Sopwith Strutter;Sopwith Strutter;Sopwith Strutter;Sopwith Strutter;;;X
 MODEL_JAP_12_1;Salmson 2;Salmson 2;Salmson 2;Salmson 2;Salmson 2;Salmson 2;Salmson 2;Salmson 2;;;X
+MODEL_JAP_12_2;SPAD S.XVII;SPAD S.XVII;SPAD S.XVII;SPAD S.XVII;SPAD S.XVII;SPAD S.XVII;SPAD S.XVII;SPAD S.XVII;;;X
 MODEL_JAP_12_3;Mitsubishi Type 91;Mitsubishi Type 91;Mitsubishi Type 91;Mitsubishi Type 91;Mitsubishi Type 91;Mitsubishi Type 91;Mitsubishi Type 91;Mitsubishi Type 91;;;X
 MODEL_JAP_12_4;Kawasaki Type 92;Kawasaki Type 92;Kawasaki Type 92;Kawasaki Type 92;Kawasaki Type 92;Kawasaki Type 92;Kawasaki Type 92;Kawasaki Type 92;;;X
 MODEL_JAP_12_5;Nakajima Ki-44 'Tojo';Nakajima Ki-44 'Tojo';Nakajima Ki-44 'Tojo';Nakajima Ki-44 'Tojo';Nakajima Ki-44 'Tojo';Nakajima Ki-44 'Tojo';Nakajima Ki-44 'Tojo';Nakajima Ki-44 'Tojo';;;X
@@ -2641,8 +2779,10 @@ MODEL_JAP_12_6;Mitsubishi J2M 'Jack';Mitsubishi J2M 'Jack';Mitsubishi J2M 'Jack'
 MODEL_JAP_12_7;Mitsubishi N1K2 'George';Mitsubishi N1K2 'George';Mitsubishi N1K2 'George';Mitsubishi N1K2 'George';Mitsubishi N1K2 'George';Mitsubishi N1K2 'George';Mitsubishi N1K2 'George';Mitsubishi N1K2 'George';;;X
 MODEL_JAP_12_8;Kyushu J7W1 Shinden;Kyushu J7W1 Shinden;Kyushu J7W1 Shinden;Kyushu J7W1 Shinden;Kyushu J7W1 Shinden;Kyushu J7W1 Shinden;Kyushu J7W1 Shinden;Kyushu J7W1 Shinden;;;X
 MODEL_JAP_12_9;Nakajima Ki-201 Karyu;Nakajima Ki-201 Karyu;Nakajima Ki-201 Karyu;Nakajima Ki-201 Karyu;Nakajima Ki-201 Karyu;Nakajima Ki-201 Karyu;Nakajima Ki-201 Karyu;Nakajima Ki-201 Karyu;;;X
+MODEL_JAP_12_10;Kawasaki Ki-100;Kawasaki Ki-100;Kawasaki Ki-100;Kawasaki Ki-100;Kawasaki Ki-100;Kawasaki Ki-100;Kawasaki Ki-100;Kawasaki Ki-100;;;X
 MODEL_JAP_12_11;Mitsubishi Ki-202 Kyokuko;Mitsubishi Ki-202 Kyokuko;Mitsubishi Ki-202 Kyokuko;Mitsubishi Ki-202 Kyokuko;Mitsubishi Ki-202 Kyokuko;Mitsubishi Ki-202 Kyokuko;Mitsubishi Ki-202 Kyokuko;Mitsubishi Ki-202 Kyokuko;;;x
 MODEL_JAP_12_12;Mitsubishi F-1;Mitsubishi F-1;Mitsubishi F-1;Mitsubishi F-1;Mitsubishi F-1;Mitsubishi F-1;Mitsubishi F-1;Mitsubishi F-1;;;X
+MODEL_JAP_12_13;Mitsubishi T-2;Mitsubishi T-2;Mitsubishi T-2;Mitsubishi T-2;Mitsubishi T-2;Mitsubishi T-2;Mitsubishi T-2;Mitsubishi T-2;;;X
 MODEL_JAP_13_0;Farman III;Farman III;Farman III;Farman III;Farman III;Farman III;Farman III;Farman III;;;X
 MODEL_JAP_13_1;Nakajima Ki-27 Kyuunana sen;Nakajima Ki-27 Kyuunana sen;Nakajima Ki-27 Kyuunana sen;Nakajima Ki-27 Kyuunana sen;Nakajima Ki-27 Kyuunana sen;Nakajima Ki-27 Kyuunana sen;;Nakajima Ki-27 Kyuunana sen;;;X
 MODEL_JAP_13_2;Nakajima Ki-43 Hayabusa;Nakajima Ki-43 Hayabusa;Nakajima Ki-43 Hayabusa;Nakajima Ki-43 Hayabusa;Nakajima Ki-43 Hayabusa;Nakajima Ki-43 Hayabusa;;Nakajima Ki-43 Hayabusa;;;X
@@ -2658,13 +2798,23 @@ MODEL_JAP_13_11;Nakajima Ki-84 'Frank';Nakajima Ki-84 'Frank';Nakajima Ki-84 'Fr
 MODEL_JAP_13_12;Mitsubishi J8M2 Shusui;Mitsubishi J8M2 Shusui;Mitsubishi J8M2 Shusui;Mitsubishi J8M2 Shusui;Mitsubishi J8M2 Shusui;Mitsubishi J8M2 Shusui;Mitsubishi J8M2 Shusui;Mitsubishi J8M2 Shusui;;;X
 MODEL_JAP_13_13;Kyushu J7W2 Shinden Kai;Kyushu J7W2 Shinden Kai;Kyushu J7W2 Shinden Kai;Kyushu J7W2 Shinden Kai;Kyushu J7W2 Shinden Kai;Kyushu J7W2 Shinden Kai;Kyushu J7W2 Shinden Kai;Kyushu J7W2 Shinden Kai;;;X
 MODEL_JAP_13_14;Nakajima J9Y Kikka;Nakajima J9Y Kikka;Nakajima J9Y Kikka;Nakajima J9Y Kikka;Nakajima J9Y Kikka;Nakajima J9Y Kikka;Nakajima J9Y Kikka;Nakajima J9Y Kikka;;;X
+MODEL_JAP_13_15;Lockheed F-104A Starfighter;Lockheed F-104A Starfighter;Lockheed F-104A Starfighter;Lockheed F-104A Starfighter;Lockheed F-104A Starfighter;Lockheed F-104A Starfighter;Lockheed F-104A Starfighter;Lockheed F-104A Starfighter;;;X
+MODEL_JAP_13_16;Mitsubishi F-4;Mitsubishi F-4;Mitsubishi F-4;Mitsubishi F-4;Mitsubishi F-4;Mitsubishi F-4;Mitsubishi F-4;Mitsubishi F-4;;;X
 MODEL_JAP_32_0;Mitsubishi J8M3 Shusui;Mitsubishi J8M3 Shusui;Mitsubishi J8M3 Shusui;Mitsubishi J8M3 Shusui;Mitsubishi J8M3 Shusui;Mitsubishi J8M3 Shusui;Mitsubishi J8M3 Shusui;Mitsubishi J8M3 Shusui;;;X
 MODEL_JAP_32_1;Mitsubishi Ki-202 Shusui Kai;Mitsubishi Ki-202 Shusui Kai;Mitsubishi Ki-202 Shusui Kai;Mitsubishi Ki-202 Shusui Kai;Mitsubishi Ki-202 Shusui Kai;Mitsubishi Ki-202 Shusui Kai;Mitsubishi Ki-202 Shusui Kai;Mitsubishi Ki-202 Shusui Kai;;;X
+MODEL_JAP_14_0;Farman F.4;Farman F.4;Farman F.4;Farman F.4;Farman F.4;Farman F.4;Farman F.4;Farman F.4;;;X
+MODEL_JAP_14_1;Caudron G.6;Caudron G.6;Caudron G.6;Caudron G.6;Caudron G.6;Caudron G.6;Caudron G.6;Caudron G.6;;;X
 MODEL_JAP_14_2;Mitsubishi Ki-20;Mitsubishi Ki-20;Mitsubishi Ki-20;Mitsubishi Ki-20;Mitsubishi Ki-20;Mitsubishi Ki-20;Mitsubishi Ki-20;Mitsubishi Ki-20;;;X
 MODEL_JAP_14_3;Nakajima G5N Shinzan;Nakajima G5N Shinzan;Nakajima G5N Shinzan;Nakajima G5N Shinzan;Nakajima G5N Shinzan;Nakajima G5N Shinzan;;Nakajima G5N Shinzan;;;X
 MODEL_JAP_14_4;Nakajima G5N 'Liz';Nakajima G5N 'Liz';Nakajima G5N 'Liz';Nakajima G5N 'Liz';Nakajima G5N 'Liz';Nakajima G5N 'Liz';Nakajima G5N 'Liz';Nakajima G5N 'Liz';;;X
 MODEL_JAP_14_5;Nakajima G8N 'Rita';Nakajima G8N 'Rita';Nakajima G8N 'Rita';Nakajima G8N 'Rita';Nakajima G8N 'Rita';Nakajima G8N 'Rita';Nakajima G8N 'Rita';Nakajima G8N 'Rita';;;X
 MODEL_JAP_14_6;Nakajima G10N;Nakajima G10N;Nakajima G10N;Nakajima G10N;Nakajima G10N;Nakajima G10N;Nakajima G10N;Nakajima G10N;;;X
+MODEL_JAP_14_7;Mitsubishi G11M 'Raiko';Mitsubishi G11M 'Raiko';Mitsubishi G11M 'Raiko';Mitsubishi G11M 'Raiko';Mitsubishi G11M 'Raiko';Mitsubishi G11M 'Raiko';Mitsubishi G11M 'Raiko';Mitsubishi G11M 'Raiko';;;X
+MODEL_JAP_14_8;Mitsubishi G12M 'Hayate';Mitsubishi G12M 'Hayate';Mitsubishi G12M 'Hayate';Mitsubishi G12M 'Hayate';Mitsubishi G12M 'Hayate';Mitsubishi G12M 'Hayate';Mitsubishi G12M 'Hayate';Mitsubishi G12M 'Hayate';;;X
+MODEL_JAP_14_9;Mitsubishi G13M 'Kirisame';Mitsubishi G13M 'Kirisame';Mitsubishi G13M 'Kirisame';Mitsubishi G13M 'Kirisame';Mitsubishi G13M 'Kirisame';Mitsubishi G13M 'Kirisame';Mitsubishi G13M 'Kirisame';Mitsubishi G13M 'Kirisame';;;X
+MODEL_JAP_15_0;Breguet XI;Breguet XI;Breguet XI;Breguet XI;Breguet XI;Breguet XI;Breguet XI;Breguet XI;;;X
+MODEL_JAP_15_1;Sopwith Tabloid;Sopwith Tabloid;Sopwith Tabloid;Sopwith Tabloid;Sopwith Tabloid;Sopwith Tabloid;Sopwith Tabloid;Sopwith Tabloid;;;X
+MODEL_JAP_15_2;Salmson 2A;Salmson 2A;Salmson 2A;Salmson 2A;Salmson 2A;Salmson 2A;Salmson 2A;Salmson 2A;;;X
 MODEL_JAP_15_3;Kawasaki Ka 87;Kawasaki Ka 87;Kawasaki Ka 87;Kawasaki Ka 87;Kawasaki Ka 87;Kawasaki Ka 87;Kawasaki Ka 87;Kawasaki Ka 87;;;X
 MODEL_JAP_15_4;Mitsubishi Ki-21 'Sally';Mitsubishi Ki-21 'Sally';Mitsubishi Ki-21 'Sally';Mitsubishi Ki-21 'Sally';Mitsubishi Ki-21 'Sally';Mitsubishi Ki-21 'Sally';Mitsubishi Ki-21 'Sally';Mitsubishi Ki-21 'Sally';;;X
 MODEL_JAP_15_5;Kawasaki Ki-48 'Lily';Kawasaki Ki-48 'Lily';Kawasaki Ki-48 'Lily';Kawasaki Ki-48 'Lily';Kawasaki Ki-48 'Lily';Kawasaki Ki-48 'Lily';Kawasaki Ki-48 'Lily';Kawasaki Ki-48 'Lily';;;X
@@ -2672,22 +2822,41 @@ MODEL_JAP_15_6;Kawasaki Ki-48-II 'Lily';Kawasaki Ki-48-II 'Lily';Kawasaki Ki-48-
 MODEL_JAP_15_7;Nakajima Ki-49 'Helen';Nakajima Ki-49 'Helen';Nakajima Ki-49 'Helen';Nakajima Ki-49 'Helen';Nakajima Ki-49 'Helen';Nakajima Ki-49 'Helen';Nakajima Ki-49 'Helen';Nakajima Ki-49 'Helen';;;X
 MODEL_JAP_15_8;Mitsubishi Ki-67 'Peggy';Mitsubishi Ki-67 'Peggy';Mitsubishi Ki-67 'Peggy';Mitsubishi Ki-67 'Peggy';Mitsubishi Ki-67 'Peggy';Mitsubishi Ki-67 'Peggy';Mitsubishi Ki-67 'Peggy';Mitsubishi Ki-67 'Peggy';;;X
 MODEL_JAP_15_9;Nakajima J9Y2 Kikkai Kai;Nakajima J9Y2 Kikkai Kai;Nakajima J9Y2 Kikkai Kai;Nakajima J9Y2 Kikkai Kai;Nakajima J9Y2 Kikkai Kai;Nakajima J9Y2 Kikkai Kai;Nakajima J9Y2 Kikkai Kai;Nakajima J9Y2 Kikkai Kai;;;X
+MODEL_JAP_15_10;Kawasaki Ki-64 'Hacho';Kawasaki Ki-64 'Hacho';Kawasaki Ki-64 'Hacho';Kawasaki Ki-64 'Hacho';Kawasaki Ki-64 'Hacho';Kawasaki Ki-64 'Hacho';Kawasaki Ki-64 'Hacho';Kawasaki Ki-64 'Hacho';;;X
+MODEL_JAP_15_11;Aichi D4A 'Saka';Aichi D4A 'Saka';Aichi D4A 'Saka';Aichi D4A 'Saka';Aichi D4A 'Saka';Aichi D4A 'Saka';Aichi D4A 'Saka';Aichi D4A 'Saka';;;X
 MODEL_JAP_15_12;Mitsubishi F-1;Mitsubishi F-1;Mitsubishi F-1;Mitsubishi F-1;Mitsubishi F-1;Mitsubishi F-1;Mitsubishi F-1;Mitsubishi F-1;;;X
+MODEL_JAP_16_0;Sopwith Cuckoo;Sopwith Cuckoo;Sopwith Cuckoo;Sopwith Cuckoo;Sopwith Cuckoo;Sopwith Cuckoo;Sopwith Cuckoo;Sopwith Cuckoo;;;X
+MODEL_JAP_16_1;Kawanishi E5K 'Chu-I';Kawanishi E5K 'Chu-I';Kawanishi E5K 'Chu-I';Kawanishi E5K 'Chu-I';Kawanishi E5K 'Chu-I';Kawanishi E5K 'Chu-I';Kawanishi E5K 'Chu-I';Kawanishi E5K 'Chu-I';;;X
 MODEL_JAP_16_2;Mitsubishi G3M 'Nell';Mitsubishi G3M 'Nell';Mitsubishi G3M 'Nell';Mitsubishi G3M 'Nell';Mitsubishi G3M 'Nell';Mitsubishi G3M 'Nell';Mitsubishi G3M 'Nell';Mitsubishi G3M 'Nell';;;X
 MODEL_JAP_16_3;Mitsubishi G4M 'Betty';Mitsubishi G4M 'Betty';Mitsubishi G4M 'Betty';Mitsubishi G4M 'Betty';Mitsubishi G4M 'Betty';Mitsubishi G4M 'Betty';Mitsubishi G4M 'Betty';Mitsubishi G4M 'Betty';;;X
 MODEL_JAP_16_4;Kawanishi H8K 'Emily';Kawanishi H8K 'Emily';Kawanishi H8K 'Emily';Kawanishi H8K 'Emily';Kawanishi H8K 'Emily';Kawanishi H8K 'Emily';Kawanishi H8K 'Emily';Kawanishi H8K 'Emily';;;X
 MODEL_JAP_16_5;Kyushu Q1W Lorna;Kyushu Q1W Lorna;Kyushu Q1W Lorna;Kyushu Q1W Lorna;Kyushu Q1W Lorna;Kyushu Q1W Lorna;Kyushu Q1W Lorna;Kyushu Q1W Lorna;;;X
 MODEL_JAP_16_6;Kawasaki P-2J;Kawasaki P-2J;Kawasaki P-2J;Kawasaki P-2J;Kawasaki P-2J;Kawasaki P-2J;Kawasaki P-2J;Kawasaki P-2J;;;X
+MODEL_JAP_16_7;Aichi B7A 'Ryusei';Aichi B7A 'Ryusei';Aichi B7A 'Ryusei';Aichi B7A 'Ryusei';Aichi B7A 'Ryusei';Aichi B7A 'Ryusei';Aichi B7A 'Ryusei';Aichi B7A 'Ryusei';;;X
+MODEL_JAP_16_8;Kawanishi P2J 'Seiran';Kawanishi P2J 'Seiran';Kawanishi P2J 'Seiran';Kawanishi P2J 'Seiran';Kawanishi P2J 'Seiran';Kawanishi P2J 'Seiran';Kawanishi P2J 'Seiran';Kawanishi P2J 'Seiran';;;X
+MODEL_JAP_17_0;Potez 25;Potez 25;Potez 25;Potez 25;Potez 25;Potez 25;Potez 25;Potez 25;;;X
+MODEL_JAP_17_1;Hanriot HD.2;Hanriot HD.2;Hanriot HD.2;Hanriot HD.2;Hanriot HD.2;Hanriot HD.2;Hanriot HD.2;Hanriot HD.2;;;X
+MODEL_JAP_17_2;Caproni Ca.5;Caproni Ca.5;Caproni Ca.5;Caproni Ca.5;Caproni Ca.5;Caproni Ca.5;Caproni Ca.5;Caproni Ca.5;;;X
+MODEL_JAP_17_3;Savoia S.12;Savoia S.12;Savoia S.12;Savoia S.12;Savoia S.12;Savoia S.12;Savoia S.12;Savoia S.12;;;X
 MODEL_JAP_17_4;Mitsubishi Ki-30 'Ann';Mitsubishi Ki-30 'Ann';Mitsubishi Ki-30 'Ann';Mitsubishi Ki-30 'Ann';Mitsubishi Ki-30 'Ann';Mitsubishi Ki-30 'Ann';Mitsubishi Ki-30 'Ann';Mitsubishi Ki-30 'Ann';;;X
 MODEL_JAP_17_5;Kawasaki Ki-32 'Mary';Kawasaki Ki-32 'Mary';Kawasaki Ki-32 'Mary';Kawasaki Ki-32 'Mary';Kawasaki Ki-32 'Mary';Kawasaki Ki-32 'Mary';Kawasaki Ki-32 'Mary';Kawasaki Ki-32 'Mary';;;X
 MODEL_JAP_17_6;Yokosuka D4Y 'Judy';Yokosuka D4Y 'Judy';Yokosuka D4Y 'Judy';Yokosuka D4Y 'Judy';Yokosuka D4Y 'Judy';Yokosuka D4Y 'Judy';Yokosuka D4Y 'Judy';Yokosuka D4Y 'Judy';;;X
 MODEL_JAP_17_7;Tachikawa Ki-74 'Patsy';Tachikawa Ki-74 'Patsy';Tachikawa Ki-74 'Patsy';Tachikawa Ki-74 'Patsy';Tachikawa Ki-74 'Patsy';Tachikawa Ki-74 'Patsy';Tachikawa Ki-74 'Patsy';Tachikawa Ki-74 'Patsy';;;X
 MODEL_JAP_17_8;Kawasaki Ki-66;Kawasaki Ki-66;Kawasaki Ki-66;Kawasaki Ki-66;Kawasaki Ki-66;Kawasaki Ki-66;Kawasaki Ki-66;Kawasaki Ki-66;;;X
+MODEL_JAP_17_9;Mitsubishi J2M3 Raiden;Mitsubishi J2M3 Raiden;Mitsubishi J2M3 Raiden;Mitsubishi J2M3 Raiden;Mitsubishi J2M3 Raiden;Mitsubishi J2M3 Raiden;Mitsubishi J2M3 Raiden;Mitsubishi J2M3 Raiden;;;X
+MODEL_JAP_17_10;Kawasaki T-4;Kawasaki T-4;Kawasaki T-4;Kawasaki T-4;Kawasaki T-4;Kawasaki T-4;Kawasaki T-4;Kawasaki T-4;;;X
+MODEL_JAP_17_11;Fuji T-1;Fuji T-1;Fuji T-1;Fuji T-1;Fuji T-1;Fuji T-1;Fuji T-1;Fuji T-1;;;X
+MODEL_JAP_18_0;Fokker F.VIIa;Fokker F.VIIa;Fokker F.VIIa;Fokker F.VIIa;Fokker F.VIIa;Fokker F.VIIa;Fokker F.VIIa;Fokker F.VIIa;;;X
 MODEL_JAP_18_1;Nakajima Ki-34 'Thora';Nakajima Ki-34 'Thora';Nakajima Ki-34 'Thora';Nakajima Ki-34 'Thora';Nakajima Ki-34 'Thora';Nakajima Ki-34 'Thora';Nakajima Ki-34 'Thora';Nakajima Ki-34 'Thora';;;X
 MODEL_JAP_18_2;Tachikawa Ki-54 'Hickory';Tachikawa Ki-54 'Hickory';Tachikawa Ki-54 'Hickory';Tachikawa Ki-54 'Hickory';Tachikawa Ki-54 'Hickory';Tachikawa Ki-54 'Hickory';Tachikawa Ki-54 'Hickory';Tachikawa Ki-54 'Hickory';;;X
 MODEL_JAP_18_3;Mitsubishi Ki-57 'Topsy';Mitsubishi Ki-57 'Topsy';Mitsubishi Ki-57 'Topsy';Mitsubishi Ki-57 'Topsy';Mitsubishi Ki-57 'Topsy';Mitsubishi Ki-57 'Topsy';Mitsubishi Ki-57 'Topsy';Mitsubishi Ki-57 'Topsy';;;X
 MODEL_JAP_18_4;Mitsubishi G6M 'Betty';Mitsubishi G6M 'Betty';Mitsubishi G6M 'Betty';Mitsubishi G6M 'Betty';Mitsubishi G6M 'Betty';Mitsubishi G6M 'Betty';Mitsubishi G6M 'Betty';Mitsubishi G6M 'Betty';;;X
 MODEL_JAP_18_5;Kawasaki C-1;Kawasaki C-1;Kawasaki C-1;Kawasaki C-1;Kawasaki C-1;Kawasaki C-1;Kawasaki C-1;Kawasaki C-1;;;X
+MODEL_JAP_18_6;Mitsubishi T-1;Mitsubishi T-1;Mitsubishi T-1;Mitsubishi T-1;Mitsubishi T-1;Mitsubishi T-1;Mitsubishi T-1;Mitsubishi T-1;;;X
+MODEL_JAP_18_7;Mitsubishi YS-11;Mitsubishi YS-11;Mitsubishi YS-11;Mitsubishi YS-11;Mitsubishi YS-11;Mitsubishi YS-11;Mitsubishi YS-11;Mitsubishi YS-11;;;X
+MODEL_JAP_20_0;Kugisho MXY-7 Ohka;Kugisho MXY-7 Ohka;Kugisho MXY-7 Ohka;Kugisho MXY-7 Ohka;Kugisho MXY-7 Ohka;Kugisho MXY-7 Ohka;Kugisho MXY-7 Ohka;Kugisho MXY-7 Ohka;;;X
+MODEL_JAP_20_1;Kugisho MXY-9 Shuka;Kugisho MXY-9 Shuka;Kugisho MXY-9 Shuka;Kugisho MXY-9 Shuka;Kugisho MXY-9 Shuka;Kugisho MXY-9 Shuka;Kugisho MXY-9 Shuka;Kugisho MXY-9 Shuka;;;X
+MODEL_JAP_20_2;Kugisho MXY-11 Ohka Kai;Kugisho MXY-11 Ohka Kai;Kugisho MXY-11 Ohka Kai;Kugisho MXY-11 Ohka Kai;Kugisho MXY-11 Ohka Kai;Kugisho MXY-11 Ohka Kai;Kugisho MXY-11 Ohka Kai;Kugisho MXY-11 Ohka Kai;;;X
 BRIG_MODEL_JAP_14_0;1MT/1MF;1MT/1MF;1MT/1MF;1MT/1MF;1MT/1MF;1MT/1MF;1MT/1MF;1MT/1MF;;;X
 BRIG_MODEL_JAP_14_1;B1M/A1N;B1M/A1N;B1M/A1N;B1M/A1N;B1M/A1N;B1M/A1N;B1M/A1N;B1M/A1N;;;X
 BRIG_MODEL_JAP_14_2;D1A 'Susie'/B2M/A2N;D1A 'Susie'/B2M/A2N;D1A 'Susie'/B2M/A2N;D1A 'Susie'/B2M/A2N;D1A 'Susie'/B2M/A2N;D1A 'Susie'/B2M/A2N;D1A 'Susie'/B2M/A2N;D1A 'Susie'/B2M/A2N;;;X
@@ -2697,6 +2866,7 @@ BRIG_MODEL_JAP_14_5;D4Y 'Judy'/B6N 'Jill'/A6M5 'Zero';D4Y 'Judy'/B6N 'Jill'/A6M5
 BRIG_MODEL_JAP_14_6;D4Y 'Judy'/B6N 'Jill'/A7M 'Sam';D4Y 'Judy'/B6N 'Jill'/A7M 'Sam';D4Y 'Judy'/B6N 'Jill'/A7M 'Sam';D4Y 'Judy'/B6N 'Jill'/A7M 'Sam';D4Y 'Judy'/B6N 'Jill'/A7M 'Sam';D4Y 'Judy'/B6N 'Jill'/A7M 'Sam';D4Y 'Judy'/B6N 'Jill'/A7M 'Sam';D4Y 'Judy'/B6N 'Jill'/A7M 'Sam';;;X
 BRIG_MODEL_JAP_14_7;A7M2 Reppu / B7A2;A7M2 Reppu / B7A2;A7M2 Reppu / B7A2;A7M2 Reppu / B7A2;A7M2 Reppu / B7A2;A7M2 Reppu / B7A2;;A7M2 Reppu / B7A2;;;X
 BRIG_MODEL_JAP_14_8;Ki-201 Karyu / Kikka;Ki-201 Karyu / Kikka;Ki-201 Karyu / Kikka;Ki-201 Karyu / Kikka;Ki-201 Karyu / Kikka;Ki-201 Karyu / Kikka;;Ki-201 Karyu / Kikka;;;X
+BRIG_MODEL_JAP_14_9;Mitsubishi F-4 / Aichi B7A 'Ryusei';Mitsubishi F-4 / Aichi B7A 'Ryusei';Mitsubishi F-4 / Aichi B7A 'Ryusei';Mitsubishi F-4 / Aichi B7A 'Ryusei';Mitsubishi F-4 / Aichi B7A 'Ryusei';Mitsubishi F-4 / Aichi B7A 'Ryusei';Mitsubishi F-4 / Aichi B7A 'Ryusei';Mitsubishi F-4 / Aichi B7A 'Ryusei';;;X
 BRIG_MODEL_JAP_15_0;Kawasaki Ki-38;Kawasaki Ki-38;Kawasaki Ki-38;Kawasaki Ki-38;Kawasaki Ki-38;Kawasaki Ki-38;;Kawasaki Ki-38;;;X
 BRIG_MODEL_JAP_15_1;Kawasaki Ki-45 'Nick';Kawasaki Ki-45 'Nick';Kawasaki Ki-45 'Nick';Kawasaki Ki-45 'Nick';Kawasaki Ki-45 'Nick';Kawasaki Ki-45 'Nick';Kawasaki Ki-45 'Nick';Kawasaki Ki-45 'Nick';;;X
 BRIG_MODEL_JAP_15_2;Kawasaki Ki-102 'Randy';Kawasaki Ki-102 'Randy';Kawasaki Ki-102 'Randy';Kawasaki Ki-102 'Randy';Kawasaki Ki-102 'Randy';Kawasaki Ki-102 'Randy';Kawasaki Ki-102 'Randy';Kawasaki Ki-102 'Randy';;;X
@@ -2704,6 +2874,8 @@ BRIG_MODEL_JAP_15_3;Kawasaki Ki-96;Kawasaki Ki-96;Kawasaki Ki-96;Kawasaki Ki-96;
 BRIG_MODEL_JAP_15_4;Rikugun Ki-93;Rikugun Ki-93;Rikugun Ki-93;Rikugun Ki-93;Rikugun Ki-93;Rikugun Ki-93;Rikugun Ki-93;Rikugun Ki-93;;;X
 BRIG_MODEL_JAP_15_5;Nakajima Ki-201 Karyu;Nakajima Ki-201 Karyu;Nakajima Ki-201 Karyu;Nakajima Ki-201 Karyu;Nakajima Ki-201 Karyu;Nakajima Ki-201 Karyu;;Nakajima Ki-201 Karyu;;;X
 BRIG_MODEL_JAP_15_6;Mitsubishi F-1;Mitsubishi F-1;Mitsubishi F-1;Mitsubishi F-1;Mitsubishi F-1;Mitsubishi F-1;;Mitsubishi F-1;;;X
+BRIG_MODEL_JAP_15_7;Lockheed T-33A;Lockheed T-33A;Lockheed T-33A;Lockheed T-33A;Lockheed T-33A;Lockheed T-33A;Lockheed T-33A;Lockheed T-33A;;;X
+BRIG_MODEL_JAP_15_8;Mitsubishi F-4E;Mitsubishi F-4E;Mitsubishi F-4E;Mitsubishi F-4E;Mitsubishi F-4E;Mitsubishi F-4E;Mitsubishi F-4E;Mitsubishi F-4E;;;X
 BRIG_MODEL_JAP_26_0;Mitsubishi F1M;Mitsubishi F1M;Mitsubishi F1M;Mitsubishi F1M;Mitsubishi F1M;Mitsubishi F1M;;Mitsubishi F1M;;;X
 BRIG_MODEL_JAP_26_1;Aichi E13A;Aichi E13A;Aichi E13A;Aichi E13A;Aichi E13A;Aichi E13A;;Aichi E13A;;;X
 BRIG_MODEL_JAP_26_2;A6M2-N;A6M2-N;A6M2-N;A6M2-N;A6M2-N;A6M2-N;;A6M2-N;;;X
@@ -2712,6 +2884,19 @@ BRIG_MODEL_JAP_26_4;Aichi E3A;Aichi E3A;Aichi E3A;Aichi E3A;Aichi E3A;Aichi E3A;
 BRIG_MODEL_JAP_26_5;Nakajima E4N;Nakajima E4N;Nakajima E4N;Nakajima E4N;Nakajima E4N;Nakajima E4N;Nakajima E4N;Nakajima E4N;;;X
 BRIG_MODEL_JAP_26_6;Kawanishi E7K 'Alf';Kawanishi E7K 'Alf';Kawanishi E7K 'Alf';Kawanishi E7K 'Alf';Kawanishi E7K 'Alf';Kawanishi E7K 'Alf';Kawanishi E7K 'Alf';Kawanishi E7K 'Alf';;;X
 BRIG_MODEL_JAP_26_7;Kawanishi E15K 'Norm';Kawanishi E15K 'Norm';Kawanishi E15K 'Norm';Kawanishi E15K 'Norm';Kawanishi E15K 'Norm';Kawanishi E15K 'Norm';Kawanishi E15K 'Norm';Kawanishi E15K 'Norm';;;X
+BRIG_MODEL_JAP_26_8;Shin Meiwa PS-1;Shin Meiwa PS-1;Shin Meiwa PS-1;Shin Meiwa PS-1;Shin Meiwa PS-1;Shin Meiwa PS-1;Shin Meiwa PS-1;Shin Meiwa PS-1;;;X
+BRIG_MODEL_JAP_26_9;Shin Meiwa PS-2;Shin Meiwa PS-2;Shin Meiwa PS-2;Shin Meiwa PS-2;Shin Meiwa PS-2;Shin Meiwa PS-2;Shin Meiwa PS-2;Shin Meiwa PS-2;;;X
+BRIG_MODEL_JAP_26_10;Shin Meiwa PS-3;Shin Meiwa PS-3;Shin Meiwa PS-3;Shin Meiwa PS-3;Shin Meiwa PS-3;Shin Meiwa PS-3;Shin Meiwa PS-3;Shin Meiwa PS-3;;;X
+BRIG_MODEL_JAP_31_0;A4N / A5M;A4N / A5M;A4N / A5M;A4N / A5M;A4N / A5M;A4N / A5M;A4N / A5M;A4N / A5M;;;X
+BRIG_MODEL_JAP_31_1;A5M 'Claude' / B4Y 'Jean';A5M 'Claude' / B4Y 'Jean';A5M 'Claude' / B4Y 'Jean';A5M 'Claude' / B4Y 'Jean';A5M 'Claude' / B4Y 'Jean';A5M 'Claude' / B4Y 'Jean';A5M 'Claude' / B4Y 'Jean';A5M 'Claude' / B4Y 'Jean';;;X
+BRIG_MODEL_JAP_31_2;A6M1 'Reisen' / B5N 'Kate';A6M1 'Reisen' / B5N 'Kate';A6M1 'Reisen' / B5N 'Kate';A6M1 'Reisen' / B5N 'Kate';A6M1 'Reisen' / B5N 'Kate';A6M1 'Reisen' / B5N 'Kate';A6M1 'Reisen' / B5N 'Kate';A6M1 'Reisen' / B5N 'Kate';;;X
+BRIG_MODEL_JAP_31_3;A6M2 'Reisen' / B5N 'Kate';A6M2 'Reisen' / B5N 'Kate';A6M2 'Reisen' / B5N 'Kate';A6M2 'Reisen' / B5N 'Kate';A6M2 'Reisen' / B5N 'Kate';A6M2 'Reisen' / B5N 'Kate';A6M2 'Reisen' / B5N 'Kate';A6M2 'Reisen' / B5N 'Kate';;;X
+BRIG_MODEL_JAP_31_4;A6M2 'Reisen' / D3A 'Val';A6M2 'Reisen' / D3A 'Val';A6M2 'Reisen' / D3A 'Val';A6M2 'Reisen' / D3A 'Val';A6M2 'Reisen' / D3A 'Val';A6M2 'Reisen' / D3A 'Val';A6M2 'Reisen' / D3A 'Val';A6M2 'Reisen' / D3A 'Val';;;X
+BRIG_MODEL_JAP_31_5;A6M5 'Zero' / D4Y 'Judy';A6M5 'Zero' / D4Y 'Judy';A6M5 'Zero' / D4Y 'Judy';A6M5 'Zero' / D4Y 'Judy';A6M5 'Zero' / D4Y 'Judy';A6M5 'Zero' / D4Y 'Judy';A6M5 'Zero' / D4Y 'Judy';A6M5 'Zero' / D4Y 'Judy';;;X
+BRIG_MODEL_JAP_31_6;A7M 'Sam' / D4Y 'Judy';A7M 'Sam' / D4Y 'Judy';A7M 'Sam' / D4Y 'Judy';A7M 'Sam' / D4Y 'Judy';A7M 'Sam' / D4Y 'Judy';A7M 'Sam' / D4Y 'Judy';A7M 'Sam' / D4Y 'Judy';A7M 'Sam' / D4Y 'Judy';;;X
+BRIG_MODEL_JAP_31_7;J2M3 Raiden / D4Y 'Judy';J2M3 Raiden / D4Y 'Judy';J2M3 Raiden / D4Y 'Judy';J2M3 Raiden / D4Y 'Judy';J2M3 Raiden / D4Y 'Judy';J2M3 Raiden / D4Y 'Judy';J2M3 Raiden / D4Y 'Judy';J2M3 Raiden / D4Y 'Judy';;;X
+BRIG_MODEL_JAP_31_8;Mitsubishi F-1 / Aichi B7A;Mitsubishi F-1 / Aichi B7A;Mitsubishi F-1 / Aichi B7A;Mitsubishi F-1 / Aichi B7A;Mitsubishi F-1 / Aichi B7A;Mitsubishi F-1 / Aichi B7A;Mitsubishi F-1 / Aichi B7A;Mitsubishi F-1 / Aichi B7A;;;X
+BRIG_MODEL_JAP_31_9;Mitsubishi T-2 / Aichi B7A2;Mitsubishi T-2 / Aichi B7A2;Mitsubishi T-2 / Aichi B7A2;Mitsubishi T-2 / Aichi B7A2;Mitsubishi T-2 / Aichi B7A2;Mitsubishi T-2 / Aichi B7A2;Mitsubishi T-2 / Aichi B7A2;Mitsubishi T-2 / Aichi B7A2;;;X
 MODEL_KAZ_12_0;Sikorsky S-XVI;Sikorsky S-XVI;Sikorsky S-XVI;Sikorsky S-XVI;Sikorsky S-XVI;Sikorsky S-XVI;;;;x;
 MODEL_KAZ_12_1;Sopwith Triplane;Sopwith Triplane;Sopwith Triplane;Sopwith Triplane;Sopwith Triplane;Sopwith Triplane;Sopwith Triplane;Sopwith Triplane;;;X
 MODEL_KAZ_12_3;Polikarpov I-1;Polikarpov I-1;Polikarpov I-1;Polikarpov I-1;Polikarpov I-1;Polikarpov I-1;Polikarpov I-1;Polikarpov I-1;;;X
@@ -5500,9 +5685,11 @@ MODEL_NOR_28_3;B-klassen;B-klassen;B-klassen;B-klassen;B-klassen;B-klassen;B-kla
 MODEL_NOR_28_6;U-klassen;U-klassen;U-klassen;U-klassen;U-klassen;U-klassen;U-klassen;U-klassen;;;X
 MODEL_NOR_28_9;Kobben-klassen;Kobben-klassen;Kobben-klassen;Kobben-klassen;Kobben-klassen;Kobben-klassen;Kobben-klassen;Kobben-klassen;;;X
 # # Japan naval units;;;;;;;;;;;X
+MODEL_JAP_21_0;Chiyoda-class;Classe Chiyoda;Classe Chiyoda;Clase Chiyoda;Chiyoda-Klasse;Chiyoda-klasa;;Chiyoda-Klasse;;;X
 MODEL_JAP_21_1;Fuji-class;Classe Fuji;Classe Fuji;Clase Fuji;Fuji-Klasse;Fuji-klasa;;Fuji-Klasse;;;X
 MODEL_JAP_21_2;Kawachi-class;Classe Kawachi;Classe Kawachi;Clase Kawachi;Kawachi-Klasse;Kawachi-klasa;;Kawachi-Klasse;;;X
 MODEL_JAP_21_3;Fuso-class;Classe Fuso;Classe Fuso;Clase Fuso;Fuso-Klasse;Fuso-klasa;;Fuso-Klasse;;;X
+MODEL_JAP_21_4;Kirishima-class;Classe Kirishima;Classe Kirishima;Clase Kirishima;Kirishima-Klasse;Kirishima-klasa;;Kirishima-Klasse;;;X
 MODEL_JAP_21_5;Nagato-class;Classe Nagato;Classe Nagato;Clase Nagato;Nagato-Klasse;Nagato-klasa;;Nagato-Klasse;;;X
 MODEL_JAP_21_6;Tosa-class;Classe Tosa;Classe Tosa;Clase Tosa;Tosa-Klasse;Tosa-klasa;;Tosa-Klasse;;;X
 MODEL_JAP_21_7;Kii-class;Classe Kii;Classe Kii;Clase Kii;Kii-Klasse;Kii-klasa;;Kii-Klasse;;;X
@@ -5511,15 +5698,18 @@ MODEL_JAP_21_9;Harima-class;Classe Harima;Classe Harima;Clase Harima;Harima-Klas
 MODEL_JAP_21_10;A-300-class;Classe A-300;Classe A-300;Clase A-300;A-300-Klasse;A-300-klasa;;A-300-Klasse;;;X
 MODEL_JAP_21_12;Yamato-class;Classe Yamato;Classe Yamato;Clase Yamato;Yamato-Klasse;Yamato-klasa;;Yamato-Klasse;;;X
 MODEL_JAP_21_13;A-150-class;Classe A-150;Classe A-150;Clase A-150;A-150-Klasse;A-150-klasa;;A-150-Klasse;;;X
+MODEL_JAP_21_14;A-160-class;Classe A-160;Classe A-160;Clase A-160;A-160-Klasse;A-160-klasa;;A-160-Klasse;;;X
 MODEL_JAP_22_0;Naniwa-class;Classe Naniwa;Classe Naniwa;Clase Naniwa;Naniwa-Klasse;Naniwa-klasa;;Naniwa-Klasse;;;X
 MODEL_JAP_22_1;Tone-class;Classe Tone;Classe Tone;Clase Tone;Tone-Klasse;Tone-klasa;;Tone-Klasse;;;X
 MODEL_JAP_22_2;Tenryu-class;Classe Tenryu;Classe Tenryu;Clase Tenryu;Tenryu-Klasse;Tenryu-klasa;;Tenryu-Klasse;;;X
 MODEL_JAP_22_3;Sendai-class;Classe Sendai;Classe Sendai;Clase Sendai;Sendai-Klasse;Sendai-klasa;;Sendai-Klasse;;;X
+MODEL_JAP_22_4;Kuma-class;Classe Kuma;Classe Kuma;Clase Kuma;Kuma-Klasse;Kuma-klasa;;Kuma-Klasse;;;X
 MODEL_JAP_22_5;Mogami-class;Classe Mogami;Classe Mogami;Clase Mogami;Mogami-Klasse;Mogami-klasa;;Mogami-Klasse;;;X
 MODEL_JAP_22_6;Agano-class;Classe Agano;Classe Agano;Clase Agano;Agano-Klasse;Agano-klasa;;Agano-Klasse;;;X
 MODEL_JAP_22_7;Oyodo-class;Classe Oyodo;Classe Oyodo;Clase Oyodo;Oyodo-Klasse;Oyodo-klasa;;Oyodo-Klasse;;;X
 MODEL_JAP_22_8;Ara-class;Classe Ara;Classe Ara;Clase Ara;Ara-Klasse;Ara-klasa;;Ara-Klasse;;;X
 MODEL_JAP_22_9;Hino-class;Classe Hino;Classe Hino;Clase Hino;Hino-Klasse;Hino-klasa;;Hino-Klasse;;;X
+MODEL_JAP_23_0;Tsukushi-class;Classe Tsukushi;Classe Tsukushi;Clase Tsukushi;Tsukushi-Klasse;Tsukushi-klasa;;Tsukushi-Klasse;;;X
 MODEL_JAP_23_1;Azuma-class;Classe Azuma;Classe Azuma;Clase Azuma;Azuma-Klasse;Azuma-klasa;;Azuma-Klasse;;;X
 MODEL_JAP_23_2;Kasuga-class;Classe Kasuga;Classe Kasuga;Clase Kasuga;Kasuga-Klasse;Kasuga-klasa;;Kasuga-Klasse;;;X
 MODEL_JAP_23_3;Furutaka-class;Classe Furutaka;Classe Furutaka;Clase Furutaka;Furutaka-Klasse;Furutaka-klasa;;Furutaka-Klasse;;;X
@@ -5556,10 +5746,12 @@ MODEL_JAP_26_6;Kokaku-class;Classe Kokaku;Classe Kokaku;Clase Kokaku;Kokaku-Klas
 MODEL_JAP_26_7;G-28-class;Classe G-28;Classe G-28;Clase G-28;G-28-Klasse;G-28-klasa;;G-28-Klasse;;;X
 MODEL_JAP_26_8;G-29-class;Classe G-29;Classe G-29;Clase G-29;G-29-Klasse;G-29-klasa;;G-29-Klasse;;;X
 MODEL_JAP_27_0;Wakamiya-class;Classe Wakamiya;Classe Wakamiya;Clase Wakamiya;Wakamiya-Klasse;Wakamiya-klasa;;Wakamiya-Klasse;;;X
+MODEL_JAP_27_1;Hikawa Maru-class;Classe Hikawa Maru;Classe Hikawa Maru;Clase Hikawa Maru;Hikawa Maru-Klasse;Hikawa Maru-klasa;;Hikawa Maru-Klasse;;;X
 MODEL_JAP_27_2;Hosho-class;Classe Hosho;Classe Hosho;Clase Hosho;Hosho-Klasse;Hosho-klasa;;Hosho-Klasse;;;X
 MODEL_JAP_27_3;Taiyo-class;Classe Taiyo;Classe Taiyo;Clase Taiyo;Taiyo-klasse;Taiyo-klasa;;Taiyo-klasse;;;X
 MODEL_JAP_27_4;Kaiyo-class;Classe Kaiyo;Classe Kaiyo;Clase Kaiyo;Kaiyo-klasse;Kaiyo-klasa;;Kaiyo-klasse;;;X
 MODEL_JAP_27_5;G-18-class;Classe G-18;Classe G-18;Clase G-18;G-18-klasse;G-18-klasa;;G-18-klasse;;;X
+MODEL_JAP_27_6;G-20-class;Classe G-20;Classe G-20;Clase G-20;G-20-Klasse;G-20-klasa;;G-20-Klasse;;;X
 MODEL_JAP_28_0;Type-VII-class;Classe Type-VII;Classe Type-VII;Clase Type-VII;Type-VII-Klasse;Type-VII-Klasse;;Type-VII-Klasse;;;X
 MODEL_JAP_28_1;Kaichu I-class;Classe Kaichu I;Classe Kaichu I;Clase Kaichu I;Kaichu I-Klasse;Kaichu I-Klasse;;Kaichu I-Klasse;;;X
 MODEL_JAP_28_2;KD1-boat-class;Classe KD1-boat;Classe KD1-boat;Clase KD1-boat;KD1-boot-Klasse;KD1-boat-Klasse;;KD1-boat-Klasse;;;X
@@ -5576,9 +5768,16 @@ MODEL_JAP_28_12;Asashio-class;Classe Asashio;Classe Asashio;Clase Asashio;Asashi
 MODEL_JAP_29_0;Junsen-gata class;Classe Junsen-gata;Classe Junsen-gata;Clase Junsen-gata;Junsen-gata Klasse;Junsen-gata klasa;;Junsen-gata class;;;X
 MODEL_JAP_29_1;Junsen Otsu-gata class;Classe Junsen Otsu-gata;Classe Junsen Otsu-gata;Clase Junsen Otsu-gata;Junsen Otsu-gata Klasse;Junsen Otsu-gata-klasa;;Junsen Otsu-gata class;;;X
 MODEL_JAP_29_2;I-400-class;Classe I-400;Classe I-400;Clase I-400;I-400-Klasse;I-400-klasa;;I-400-Klasse;;;X
+MODEL_JAP_30_0;Kamoi Maru-class;Classe Kamoi Maru;Classe Kamoi Maru;Clase Kamoi Maru;Kamoi Maru-Klasse;Kamoi Maru-klasa;;Kamoi Maru-Klasse;;;X
+MODEL_JAP_30_1;Shinai Maru-class;Classe Shinai Maru;Classe Shinai Maru;Clase Shinai Maru;Shinai Maru-Klasse;Shinai Maru-klasa;;Shinai Maru-Klasse;;;X
+MODEL_JAP_30_2;Hakata Maru-class;Classe Hakata Maru;Classe Hakata Maru;Clase Hakata Maru;Hakata Maru-Klasse;Hakata Maru-klasa;;Hakata Maru-Klasse;;;X
+MODEL_JAP_30_3;Teiritsu Maru-class;Classe Teiritsu Maru;Classe Teiritsu Maru;Clase Teiritsu Maru;Teiritsu Maru-Klasse;Teiritsu Maru-klasa;;Teiritsu Maru-Klasse;;;X
+MODEL_JAP_30_4;Awamaru-class;Classe Awamaru;Classe Awamaru;Clase Awamaru;Awamaru-Klasse;Awamaru-klasa;;Awamaru-Klasse;;;X
+MODEL_JAP_30_5;Baekho Maru-class;Classe Baekho Maru;Classe Baekho Maru;Clase Baekho Maru;Baekho Maru-Klasse;Baekho Maru-klasa;;Baekho Maru-Klasse;;;X
 MODEL_JAP_31_0;Ryujo-class;Classe Ryujo;Classe Ryujo;Clase Ryujo;Ryujo-Klasse;Ryujo-klasa;;Ryujo-Klasse;;;X
 MODEL_JAP_31_1;Chitose-class;Classe Chitose;Classe Chitose;Clase Chitose;Chitose-klasse;Chitose-klasa;;Chitose-klasse;;;X
 MODEL_JAP_31_2;G-19-class;Classe G-19;Classe G-19;Clase G-19;G-19-klasse;G-19-klasa;;G-19-klasse;;;X
+MODEL_JAP_31_3;G-21-class;Classe G-21;Classe G-21;Clase G-21;G-21-Klasse;G-21-klasa;;G-21-Klasse;;;X
 MODEL_OTT_28_0;Müstecip Onbasi class;Müstecip Onbasi class;Müstecip Onbasi class;Müstecip Onbasi class;Müstecip Onbasi class;Müstecip Onbasi class;Müstecip Onbasi class;Müstecip Onbasi class;;;X
 MODEL_OTT_28_3;Birindci Inonu Class;Birindci Inonu Class;Birindci Inonu Class;Birindci Inonu Class;Birindci Inonu Class;Birindci Inonu Class;Birindci Inonu Class;Birindci Inonu Class;;;X
 MODEL_OTT_28_4;Dumlupynar Class;Dumlupynar Class;Dumlupynar Class;Dumlupynar Class;Dumlupynar Class;Dumlupynar Class;Dumlupynar Class;Dumlupynar Class;;;X

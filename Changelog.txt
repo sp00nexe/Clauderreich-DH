@@ -65,3 +65,16 @@ sp00nexe
     22.05 kHz, CBR 64 kbps, 4:33 (273 s), 2.1 MB. The new file is MPEG-1
     Layer III, 48 kHz, VBR 32-192 kbps (mostly 128/160), 0:45 (45 s), 745 KB -
     about a third of the size, and it loops cleanly as short lobby music.
+
+1.9.3.3 - 2026-10-21
+  Added
+  * config/models.csv: 199 new Japanese model rows, covering every slot the
+    tech tree can grant Japan in artillery, armoured vehicles, aircraft, ships
+    and their naval fittings - e.g. Type 1 Ho-Ni, Type 89 I-Go, Shinhoto
+    Chi-Ha, Type 97 45 mm AT Gun, Kuma-class, Kugisho MXY-7 Ohka.
+  * config/models.csv: named the six Japanese rows that existed but were
+    blank - BRIG_MODEL_JAP_1_1/1_2/1_3/1_4/1_12/1_13 (Type 41 75 mm mountain
+    gun, Type 38 15 cm howitzer, Type 41 75 mm field gun, Type 90 75 mm field
+    gun, Type 1 and Type 60 105 mm howitzers).
+  * All 205 names are unique across the whole file; the file stays CP1252 with
+    CRLF endings, the X sentinel in column L and #EOF on the last row.
