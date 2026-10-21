@@ -57,3 +57,11 @@ sp00nexe
     already exist in db/leaders/socialitaly.csv (RSI), and three of its IDs
     collided with db/leaders/libya.csv. U34's real leaders live in
     db/leaders/crimea.csv.
+
+1.9.3.2 - 2026-10-21
+  Changed
+  * Replaced music/Die_Wacht_am_Rhein.mp3 with a shorter, higher-fidelity
+    encode of the same track. The committed file was MPEG-2 Layer III,
+    22.05 kHz, CBR 64 kbps, 4:33 (273 s), 2.1 MB. The new file is MPEG-1
+    Layer III, 48 kHz, VBR 32-192 kbps (mostly 128/160), 0:45 (45 s), 745 KB -
+    about a third of the size, and it loops cleanly as short lobby music.
